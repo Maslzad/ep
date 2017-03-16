@@ -1,0 +1,123 @@
+html, body {
+    position: relative;
+    height: 100%;
+}
+body {
+    background: #222;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color:#333;
+    margin: 0;
+    padding: 0;
+    padding-top: 0;
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: "futura-pt",sans-serif;
+  text-transform: uppercase;
+}
+
+a,
+a:link,
+a:visited { 
+  color: inherit !important;
+  border-bottom: 2px solid #fff;
+}
+
+a:hover { text-decoration: none;}
+
+.navbar a { border: none;}
+
+img { max-width: 100%; height: auto;}
+
+.navbar-brand img { max-width: none;}
+
+.red-gradient {
+  background: -webkit-linear-gradient(-180deg, rgb(220, 7, 45), rgb(155, 2, 29));
+  background: linear-gradient(-180deg, rgb(220, 7, 45), rgb(155, 2, 29));
+}
+
+
+
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    background-color: rgb(220, 7, 45);
+    
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.swiper-pagination-bullet {
+  width: 24px;
+  height: 2px;
+  background-color: white;
+  opacity:0.3;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  margin: 24px 0 !important;
+}
+
+.swiper-pagination-bullet-active {
+  opacity: 1;
+}
+
+.slide-content-wrapper {
+  text-align: left;
+}
+
+.slide-content-wrapper .slide-content-wortpaar {
+  
+}
+
+.slide-content-wrapper .slide-content-txt {
+  margin-top: 40px;
+}
+    
+/* Ugly hacks to fix the container within navbar functionality - should be fixed in Bootstrap 4 beta */
+
+.navbar-toggler {
+    z-index: 1;
+}
+
+@media (min-width: 768px) {
+    .navbar-header
+    {
+        float: none;
+    }
+
+    .navbar-toggle
+    {
+        display: block;
+    }
+
+    .navbar-collapse.collapse
+    {
+        display: none !important;
+    }
+}
+
+@media (max-width: 576px) {
+    nav > .container {
+        width: 100%;
+    }
+    .swiper-pagination { display: none;}
+}
