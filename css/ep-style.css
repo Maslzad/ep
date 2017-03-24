@@ -182,6 +182,7 @@ body.canvas-slid .navbar-toggle .bottom-bar {
     -ms-flex-align: center;
     -webkit-align-items: center;
     align-items: center;
+    box-sizing: border-box;
 }
 
 .swiper-pagination-bullet {
