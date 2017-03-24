@@ -7,10 +7,15 @@ $(document).ready(function () {
           autoplay: 10000,
           keyboardControl: true,
           mousewheelControl: true,
+          loop: true,
           cube: {
           shadow: false,
           slideShadows: false
-          
           }
-      });    
+      });
+      
+  $('.navbar').offcanvas({
+    disableScrolling: false
+  })    
+          
   });
