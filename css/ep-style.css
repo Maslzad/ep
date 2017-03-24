@@ -166,7 +166,7 @@ body.canvas-slid .navbar-toggle .bottom-bar {
 .swiper-slide {
     text-align: center;
     font-size: 18px;
-    padding: 0;
+    padding: 20px;
     background-color: rgb(220, 7, 45);
     
     /* Center slide text vertically */
