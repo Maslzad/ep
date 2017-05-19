@@ -7,44 +7,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-			<meta content="{{ site.title }}" property="og:site_name">
-		{% if page.title %}
-		  <meta content="{{ page.title }}" property="og:title">
-		{% else %}
-		  <meta content="{{ site.title }}" property="og:title">
-		{% endif %}
-		{% if page.title %}
+			<meta content="ep communication" property="og:site_name">
+		
+		  <meta content="Marktforschung" property="og:title">
+		
+		
 		  <meta content="article" property="og:type">
-		{% else %}
-		  <meta content="website" property="og:type">
-		{% endif %}
-		{% if page.description %}
-		  <meta content="{{ page.description }}" property="og:description">
-		{% else %}
-		  <meta content="{{ site.description }}" property="og:description">
-		{% endif %}
-		{% if page.url %}
-		  <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-		{% endif %}
-		{% if page.date %}
-		  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-		  <meta content="{{ site.url }}/about/" property="article:author">
-		{% endif %}
+		
+		
+		  <meta content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+" property="og:description">
+		
+		
+		  <meta content="http://yourdomain.com/leistungen/marktforschung.html" property="og:url">
+		
+		
 
 		  <meta property="og:image" content="">
 		
-		{% if page.categories %}
-		  {% for category in page.categories limit:1 %}
-		  <meta content="{{ category }}" property="article:section">
-		  {% endfor %}
-		{% endif %}
-		{% if page.tags %}
-		  {% for tag in page.tags %}
-		  <meta content="{{ tag }}" property="article:tag">
-		  {% endfor %}
-		{% endif %}
-		  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-		  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+		
+		
+		  <title>Marktforschung</title>
+		  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
 		
 		
     <!-- Bootstrap Core CSS -->
@@ -64,12 +49,12 @@
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
 		
-	  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-	  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+	  <link rel="canonical" href="http://yourdomain.com/leistungen/marktforschung.html">
+	  <link rel="alternate" type="application/rss+xml" title="ep communication" href="http://yourdomain.com/feed.xml">
 
 </head>
 
-<body class="{{ page.body_class }}">
+<body class="leistung marktforschung">
 
     <!-- Navigation -->
     <div class="navmenu navmenu-default navmenu-fixed-left offcanvas">
@@ -93,9 +78,22 @@
       <a class="brand" href="/">ep communication</a>
     </div>
 		
-		{{ content }}
+		<div class="section-hero" style="background-image: url(/img/)">
+  <div class="container">
+    <div class="wortpaar">
+      <img src="/img/wortpaare/echt-punktgenau-pos.svg" height="170" />
+    </div>
+    <h2>Marktforschung</h2>
+    <div class="divider"></div>
+    <div class="intro-txt">
+            
+    </div>
+  </div>
+</div>
+
+
     
-{% if page.body_class != "index" %}
+
   <footer class="main-footer">
     <div class="container">
       <div class="pre-footer text-center">
@@ -103,12 +101,12 @@
       </div>
       <div class="final-bar">
         <div class="container text-center">
-          {{ site.company_name}} · {{ site.address }} · {{ site.plz }}
+          ep communication GmbH · Bayenthalgürtel 7 · 50968 Köln
         </div>
       </div>
     </div>
   </footer>
-{% endif %}
+
 
     <!-- jQuery Version 3.1.1 -->
     <script src="/js/jquery.js"></script>

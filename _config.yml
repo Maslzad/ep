@@ -10,5 +10,9 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
+company_name: ep communication GmbH
+address: Bayenthalgürtel 7
+plz: 50968 Köln
+
 # Build settings
 markdown: kramdown
