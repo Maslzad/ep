@@ -1,18 +1,25 @@
 # Site settings
 title: ep communication
-email: mail@bohlen-design.de
+
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://www.ep-communication.de" # the base hostname & protocol for your site
+twitter_username: ep-communication
+github_username:  ep-communication
 
 company_name: ep communication GmbH
 address: Bayenthalgürtel 7
 plz: 50968 Köln
+tel: +49 (0)221 96 98 95-90
+fax: +49 (0)221 96 98 95-96
+ceo: Emitis Pohl
+amtsgericht: Köln HRB 76168
+ust-nr: DE284 154 502
+contact_email: info@ep-communication.de
+web: www.ep-communication.de
 
 # Build settings
 markdown: kramdown

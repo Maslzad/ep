@@ -19,7 +19,7 @@
 " property="og:description">
 		
 		
-		  <meta content="http://yourdomain.com/kontakt.html" property="og:url">
+		  <meta content="http://www.ep-communication.de/kontakt.html" property="og:url">
 		
 		
 
@@ -49,8 +49,8 @@
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
 		
-	  <link rel="canonical" href="http://yourdomain.com/kontakt.html">
-	  <link rel="alternate" type="application/rss+xml" title="ep communication" href="http://yourdomain.com/feed.xml">
+	  <link rel="canonical" href="http://www.ep-communication.de/kontakt.html">
+	  <link rel="alternate" type="application/rss+xml" title="ep communication" href="http://www.ep-communication.de/feed.xml">
 
 </head>
 
@@ -60,10 +60,10 @@
     <div class="navmenu navmenu-default navmenu-fixed-left offcanvas">
       
       <ul class="nav navmenu-nav main-nav">
-        <li><a href="/agentur">Agentur</a></li>
-        <li><a href="/leistungen">Leistungen</a></li>
-        <li><a href="/projekte">Projekte</a></li>
-        <li><a href="/kontakt">Kontakt</a></li>
+        <li><a href="/agentur.html">Agentur</a></li>
+        <li><a href="/leistungen.html">Leistungen</a></li>
+        <li><a href="/projekte.html">Projekte</a></li>
+        <li><a href="/kontakt.html">Kontakt</a></li>
       </ul>
     </div>
     
@@ -89,18 +89,79 @@
   </div>
 </div>
 
-<section id="team" class="content-section white-bg">
+<section id="map" class="content-section white-bg">
   <div class="container">
-    <h2 class="section-header editable">Unser Team</h2>
+    
   </div>
-  <div class="container">
-    <div class="team-wrapper row">
-      
-      
+</section>
 
+
+<section id="contact_form" class="content-section white-bg">
+  <div class="container">
+    <div class="row">
+      <h2 class="section-header text-center editable">Sprechen Sie uns einfach an</h2>
+    </div>
+    <div class="row">
+      <div class="col-md-6">
+        <form name="sentMessage" id="contactForm" action="" novalidate method="post">
+          <div class="row control-group">
+            <div class="form-group col-xs-12 floating-label-form-group controls">
+                  <label for="name" data-i18n="form_label_name">Name</label>
+                  <input type="text" class="form-control" name="content[name]" placeholder="Verraten Sie uns Ihren Namen?" id="name" required data-validation-required-message="Bitte geben Sie Ihren Namen ein" />
+                  <p class="help-block text-danger"></p>
+              </div>
+          </div>
+          <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                  <label for="email" data-i18n="form_label_email">Ihre E-Mail-Adresse</label>
+                  <input type="email" name="content[email]" class="form-control" placeholder="Wie erreichen wir Sie? E-Mail, Telefon?" id="email" required data-validation-required-message="Bitte geben Sie eine gültige E-Mail-Adresse ." />
+                  <p class="help-block text-danger"></p>
+              </div>
+          </div>
+          <div class="row control-group">
+              <div class="form-group col-xs-12 floating-label-form-group controls">
+                  <label data-i18n="form_label_message">Nachricht</label>
+                  <textarea rows="5" name="content[message]" class="form-control" placeholder="Was können wir für Sie tun? " id="message" required data-validation-required-message="Bitte teilen Sie uns Ihr Anliegen mit."></textarea>
+                  <p class="help-block text-danger"></p>
+              </div>
+          </div>
+          <input type="hidden" name="_to" value="info@ep-communication.de" />
+          <input type="hidden" name="_subject" value="Anfrage über Website" />
+          <input type="text" name="_gotcha" style="display: none;" />
+          <div class="row">
+              <div class="form-group col-xs-12">
+                  <button type="submit" class="btn btn-default btn-block" data-i18n="form_submit">Abschicken</button>
+              </div>
+          </div>
+        </form>
+      </div>
+      <div class="col-md-4 offset-md-2">
+        <div class="ep-logo">
+          <img src="/img/logo-ep-pos.svg">
+        </div>
+        <div class="contact-details">
+          <p class="adress">
+            ep communication GmbH<br>
+            Bayenthalgürtel 7<br>
+            50968 Köln
+          </p>
+          <p class="tel">
+            T <a href="tel:+49 (0)221 96 98 95-90">+49 (0)221 96 98 95-90</a><br>
+            F +49 (0)221 96 98 95-96
+          </p>
+          <p>
+            CEO Emitis Pohl<br>
+            Amtsgericht Köln HRB 76168<br>
+            USt-Nr DE284 154 502
+          </p>
+        </div>
+        
+      </div>
     </div>
   </div>
 </section>
+
+
 
 
 <section id="jumper-section" class="content-section">
@@ -110,28 +171,28 @@
     <div class="row">
       
       <div class="col-md-4 jumper-item">
-  <a href="/agentur" class="jumper-img">
-    <img src="img/jumper-agentur.png" >
+  <a href="/agentur.html" class="jumper-img">
+    <img src="/img/jumper-agentur.png" >
   </a>
-  <a href="/agentur" class="jumper-link">
+  <a href="/agentur.html" class="jumper-link">
     <h3>Die Agentur<i class="icon-arrow icon-arrow-small icon-arrow-right"></i></h3>
   </a>
 </div>
       
       <div class="col-md-4 jumper-item">
-  <a href="/leistungen" class="jumper-img">
-    <img src="img/jumper-leistungen.png" >
+  <a href="/leistungen.html" class="jumper-img">
+    <img src="/img/jumper-leistungen.png" >
   </a>
-  <a href="/leistungen" class="jumper-link">
+  <a href="/leistungen.html" class="jumper-link">
     <h3>Leistungen<i class="icon-arrow icon-arrow-small icon-arrow-right"></i></h3>
   </a>
 </div>
       
       <div class="col-md-4 jumper-item">
-  <a href="/projekte" class="jumper-img">
-    <img src="img/jumper-projekte.png" >
+  <a href="/projekte.html" class="jumper-img">
+    <img src="/img/jumper-projekte.png" >
   </a>
-  <a href="/projekte" class="jumper-link">
+  <a href="/projekte.html" class="jumper-link">
     <h3>Projekte<i class="icon-arrow icon-arrow-small icon-arrow-right"></i></h3>
   </a>
 </div>
@@ -146,7 +207,7 @@
   <footer class="main-footer">
     <div class="container">
       <div class="pre-footer text-center">
-        <img src="/img/wortpaare/einfach-ep-pos.svg">
+        Toll, dass wir Sie bis zum Ende der Seite fesseln konnten. 
       </div>
       <div class="final-bar">
         <div class="container text-center">
