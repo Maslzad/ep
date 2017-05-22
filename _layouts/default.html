@@ -51,6 +51,7 @@
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/jasny-bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/swiper.min.css">
+    <link href="/css/font-awesome.min.css" rel="stylesheet">
     <link href="/css/ep-style.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
     <script type="text/javascript">
@@ -76,10 +77,27 @@
       
       <ul class="nav navmenu-nav main-nav">
         <li><a href="/agentur">Agentur</a></li>
+        <li><a href="/agentur/team">Team</a></li>
+        <li><a href="/agentur/jobs">Jobs</a></li>
         <li><a href="/leistungen">Leistungen</a></li>
         <li><a href="/projekte">Projekte</a></li>
         <li><a href="/kontakt">Kontakt</a></li>
       </ul>
+      
+      <div class="social-links">
+        <a href="tel:{{site.tel}}"><i class="fa fa-phone" aria-hidden="true"></i></a>
+        <a href="/kontakt"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+        <a href="https://www.facebook.com/epcommunicationgmbh" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+        <a href="#" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+        <a href="#" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+        <a href="#" target="_blank"><i class="fa fa-xing" aria-hidden="true"></i></a>
+      </div>
+      
+      <p class="adress">
+        {{ site.company_name }}<br>
+        {{ site.address }}<br>
+        {{ site.plz}}
+      </p>
     </div>
     
     <div class="navbar navbar-brand navbar-fixed-top">

@@ -140,9 +140,15 @@ footer .final-bar {
   padding: 60px 0;
 }
 
+.navmenu ul.main-nav,
+.navmenu .social-links,
+.adress {
+  padding-left: 47px;
+}
+
+
 .navmenu ul.main-nav li {
   display: block;
-  padding-left: 47px;
 }
 
 .navmenu ul.main-nav li a {
@@ -153,6 +159,16 @@ footer .final-bar {
  font-family: "futura-pt",sans-serif;
  text-transform: uppercase;
 }
+
+.navmenu .social-links { margin-bottom: 70px;}
+.navmenu .social-links a { 
+  color: #A8A8A8; font-size: 28px; margin-right: 14px;}
+
+.navmenu .social-links a:hover {
+  color: #979797;
+}
+
+.navmenu .adress { font-size: 14px;}
 
 .canvas-sliding .navbar-brand {
   display: none;
