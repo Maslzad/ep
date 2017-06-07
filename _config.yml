@@ -24,3 +24,12 @@ collections:
   projects:
     output: true
   clients:
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "clients"
+    values:
+      logo_path:
+      url:      
