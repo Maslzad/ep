@@ -16,8 +16,20 @@ hero_image_path: "hero-projekte.jpg"
   <div class="container">
     <div class="projekte-wrapper row">
       
-      
+      {% for project in site.projects %}
+        <div class="col-md-4">
+          <a class="project-item" href="{{ project.url }}">
+            <img class="project-thumb" src="{{ project.image_path }}" alt="{{ project.title }}">
+            <div class="hover">
+              <h2>{{project.title}}</h2>
+              <p>{{project.client}}</p>
+            </div>
+          </a>
+        </div>
+      {% endfor %}
 
+      
+      
     </div>
   </div>
 </section>

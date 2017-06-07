@@ -1,7 +1,7 @@
 ---
+layout: project
 title: DIE WIRTSCHAFTSMACHT. VON NEBENAN.
 client: Deutsches Handwerk
-subtitle: Was wäre das Leben ohne das Handwerk?
 image_path: 'https://upload.wikimedia.org/wikipedia/commons/d/d1/AfghanBiscuit.jpg'
 ---
 
