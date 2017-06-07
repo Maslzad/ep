@@ -1,8 +1,8 @@
 ---
-_layout: project
+layout: project
 title: DIE WIRTSCHAFTSMACHT. VON NEBENAN.
-client: 
-image_path: 'https://upload.wikimedia.org/wikipedia/commons/d/d1/AfghanBiscuit.jpg'
+client:
+image_path: /uploads/hwd-dom-18-1-1024x724.jpg
 ---
 
 
