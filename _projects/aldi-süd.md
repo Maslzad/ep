@@ -18,12 +18,14 @@ Der Bericht erschien in deutscher und englischer Sprache und umfasst alle eigens
 
 &nbsp;
 
-&nbsp;
-
 ![](/uploads/versions/sf-reputation-aldi-sued-teaser3-1024x385---x----1024-385x---.png)
+
+#### &nbsp;
 
 #### Verantwortung als Kernwert
 
 Einfachheit und Verantwortung sind die Kernwerte von ALDI S&Uuml;D. Die klare und faktenbasierte Gestaltung des CR-Berichts wurde durch Scholz & Friends Reputation auf diese Kernwerte abgestimmt. Eine eigene Icon-Welt wurde entwickelt und inzwischen auch f&uuml;r andere Formate in der CR-Kommunikation genutzt.
+
+&nbsp;
 
 ![](/uploads/versions/sf-reputation-aldi-sued-teaser2---x----503-310x---.jpg)
