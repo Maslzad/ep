@@ -1,7 +1,7 @@
 ---
-layout: project
+_layout: project
 title: DIE WIRTSCHAFTSMACHT. VON NEBENAN.
-client: Deutsches Handwerk
+client: 
 image_path: 'https://upload.wikimedia.org/wikipedia/commons/d/d1/AfghanBiscuit.jpg'
 ---
 
