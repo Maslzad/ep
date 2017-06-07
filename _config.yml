@@ -22,7 +22,5 @@ markdown: kramdown
 
 collections: 
   projects:
-    collections:
-      - clients
     output: true
   clients:

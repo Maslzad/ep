@@ -1,7 +1,7 @@
 ---
 layout: project
 title: DIE WIRTSCHAFTSMACHT. VON NEBENAN.
-client:
+client: Deutsches Handwerk
 image_path: /uploads/hwd-dom-18-1-1024x724.jpg
 ---
 
