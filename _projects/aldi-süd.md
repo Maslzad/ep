@@ -1,6 +1,7 @@
 ---
 layout: project
 title: ALDI SÜD
+subtitle: Erster internationaler Bericht zur Unternehmensverantwortung der Unternehmensgruppe ALDI SÜD
 client: aldi
 image_path: /uploads/sf-reputation-aldi-sued-teaser1.png
 thumbnail_path: /uploads/sf-reputation-aldi-sued-teaser-615x410.png

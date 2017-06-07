@@ -1,9 +1,10 @@
 ---
 layout: project
 title: DIE WIRTSCHAFTSMACHT. VON NEBENAN.
-client: deutsches-handwerk
+subtitle: Was wäre das Leben ohne das Handwerk?
+client: Deutsches Handwerk
 image_path: /uploads/hwd-dom-18-1-1024x724.jpg
-thumbnail_path: /uploads/handwerk-anfang-1-615x410.jpg
+thumbnail_path:
 tags:
   - Print
   - Kampagne
@@ -11,7 +12,7 @@ tags:
 ---
 
 
-Was wäre das Leben ohne das Handwerk? Die orchestrierte Imagekampagne für das deutsche Handwerk macht die gesellschaftliche und wirtschaftliche Relevanz dieses bedeutenden Wirtschaftszweigs für die Öffentlichkeit sichtbar und weckt den Stolz der Handwerkerinnen und Handwerker selbst.
+Was w&auml;re das Leben ohne das Handwerk? Die orchestrierte Imagekampagne f&uuml;r das deutsche Handwerk macht die gesellschaftliche und wirtschaftliche Relevanz dieses bedeutenden Wirtschaftszweigs f&uuml;r die &Ouml;ffentlichkeit sichtbar und weckt den Stolz der Handwerkerinnen und Handwerker selbst.
 
 ![](/uploads/versions/594x420-hwd-baecker-1024x725---x----1024-725x---.jpg)
 

@@ -8,6 +8,9 @@ layout: default
     <a href="#" onclick="window.history.back();"class="back-link"><i class="icon-arrow icon-arrow-small icon-arrow-left"></i>Zurück</a>
     
     <h2>{{ page.title}}</h2>
+    <p class="intro-txt">
+      {{ page.subtitle }}      
+    </p>
     <p class="tags">
       {% for tag in page.tags %}
         <span class="tag">{{tag}}</span>
@@ -31,13 +34,14 @@ layout: default
         {{ content }}      
       </div>
       <div class="col-md-2">
-        <img src="{{ site.data.clients[page.client].logo_path }}" />
+        {% assign page_client = site.clients | where "title", page.client %}
+        <img src="{{ page.page_client.logo_path }}" />
       </div>
     </div>
   </div>
 </section>
 
-<section id="projekte" class="content-section white-bg">
+<section id="projekte" class="content-section lighter-bg">
   <div class="container">
     <h2 class="section-header editable">Weitere Projekte</h2>
   </div>

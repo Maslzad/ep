@@ -46,8 +46,8 @@ a:hover { text-decoration: none;}
 .red-bg     {background-color: #db081a; color: #FFFFFF}
 .dark-bg    {background-color: #4a4a4a; color: #FFFFFF}
 .darker-bg  {background-color: #222222; color: #FFFFFF}
-.light-bg   {background-color: #A8A8A8; color: #222222}
-.lighter-bg {background-color: #E3E3E3; color: #222222}
+.light-bg   {background-color: #E3E3E3; color: #222222}
+.lighter-bg {background-color: #F2F2F2; color: #222222}
 .white-bg   {background-color: white; color: #222222}
 
 /*Text-Styles*/
@@ -313,7 +313,7 @@ span.tag {
 
 .section-hero .wortpaar { margin-bottom: 60px;}
 .section-hero h2 { color: #db081a;}
-.section-hero p { font-size: 28px; line-height: 200%;}
+.section-hero p { font-size: 28px; line-height: 140%;}
 
 h3.section-header { margin-bottom: 80px; text-align: center;}
 
@@ -358,11 +358,13 @@ h3.section-header { margin-bottom: 80px; text-align: center;}
 .icon-arrow-left { margin-right: 10px; background: url(../img/icons/arrow-left-blue.svg) no-repeat left top; background-size: 100%;} 
 
 .project-item { position: relative; display: block;}
-.project-item .hover { display: none; position: absolute; top: 0; left: 0; background-color: rgba(219, 8, 26, 0.8); height: 100%;}
+.project-item .hover { display: none; position: absolute; top: 0; left: 0; background-color: rgba(219, 8, 26, 0.8); height: 100%; width: 100%;}
 .project-item:hover .hover { display: block;}
 .project-item .hover h4,
 .project-item .hover p { padding: 0 20px; color: white; margin: 0;}
 .project-item .hover h4 { font-size: 20px; margin-top: 80px;}
+
+.projekte-content { padding-bottom: 100px;}
 
 .form-group { width: 100%;}
 
