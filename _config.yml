@@ -23,4 +23,3 @@ markdown: kramdown
 collections: 
   projects:
     output: true
-  clients:
