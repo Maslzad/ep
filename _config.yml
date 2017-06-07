@@ -19,3 +19,7 @@ web: www.ep-communication.de
 
 # Build settings
 markdown: kramdown
+
+collections: 
+  projects:
+  clients:
