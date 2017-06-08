@@ -229,10 +229,10 @@ body.canvas-slid .navbar-toggle .bottom-bar {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('../img/ep-icon-end-negativ.svg');
+/*  background-image: url('../img/ep-icon-end-negativ.svg');
   background-position: 50% 50%;
   background-size: 540px;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat;*/
 }
 
 span.tag {
@@ -241,10 +241,10 @@ span.tag {
   background-color: #F2F2F2;
 }
 
-.ep-hero.agentur { background-image: url('../img/start-icon-agentur.svg');}
+/*.ep-hero.agentur { background-image: url('../img/start-icon-agentur.svg');}
 .ep-hero.leistungen { background-image: url('../img/start-icon-leistungen.svg');}
 .ep-hero.projekte { background-image: url('../img/start-icon-projekte.svg');}
-.ep-hero.kontakt { background-image: url('../img/start-icon-kontakt.svg');}
+.ep-hero.kontakt { background-image: url('../img/start-icon-kontakt.svg');}*/
 
 
 .swiper-pagination-bullet {
