@@ -14,9 +14,13 @@ hero_image_path: "hero-jobs.jpg"
     <h2 class="section-header editable">Wir suchen</h2>
   </div>
   <div class="container">
-    <div class="projekte-wrapper row">
+    <div class="jobs-wrapper row">
       
-      
+      {% for job in site.jobs %}
+        <div class="col-md-12">
+          {% include job-item.html %}
+        </div>
+      {% endfor %}
 
     </div>
   </div>

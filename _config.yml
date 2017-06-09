@@ -23,6 +23,8 @@ markdown: kramdown
 collections: 
   projects:
     output: true
+  jobs:
+    output: true
 
 defaults:
   -

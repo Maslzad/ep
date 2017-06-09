@@ -37,10 +37,11 @@ a,
 a:link,
 a:visited { 
   color: #222;
-  border-bottom: 2px solid #fff;
 }
 
-a:hover { text-decoration: none;}
+a:hover,
+a:focus,
+a:active { text-decoration: none; color: #db081a;}
 
 /*Background-Styles*/
 .red-bg     {background-color: #db081a; color: #FFFFFF}
@@ -363,6 +364,8 @@ h3.section-header { margin-bottom: 80px; text-align: center;}
 .project-item .hover h4,
 .project-item .hover p { padding: 0 20px; color: white; margin: 0;}
 .project-item .hover h4 { font-size: 20px; margin-top: 80px;}
+
+.job-item { display: block; line-height: 88px; padding: 0 20px;}
 
 .projekte-content { padding-bottom: 100px;}
 
