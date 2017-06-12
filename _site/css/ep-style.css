@@ -15,6 +15,7 @@ body {
     margin: 0;
     padding: 0;
     padding-top: 0;
+    overflow-x: hidden;
 }
 
 body.index {
@@ -319,9 +320,13 @@ span.tag {
   font-size: 18px;
   background: #fff;
 }
-.team-swiper-container .swiper-slide .staff-member-img { margin: 20px 0;}
+.team-swiper-container .swiper-slide .staff-member-img { margin: 20px 0; position: relative;}
+.team-swiper-container .swiper-slide .staff-member-img .staff-member-gif { display: none; position: absolute; left: 0; top: 0;}
+.team-swiper-container .swiper-slide:hover .staff-member-img .staff-member-gif {display: block;}
 
-.team-swiper-container .swiper-slide .staff-member-wortpaar,
+.team-swiper-container .swiper-slide .staff-member-wortpaar img { height: 80px;}
+
+
 .team-swiper-container .swiper-slide .staff-member-details { opacity: 0;}
 
 .team-swiper-container .swiper-slide .staff-member-details h3 { margin: 0;}

@@ -20,7 +20,6 @@ $(document).ready(function () {
     paginationClickable: true,
     spaceBetween: 30,
     grabCursor: true,
-    autoplay: 2500,
     autoplayDisableOnInteraction: true
     });
       

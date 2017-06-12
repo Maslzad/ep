@@ -20,8 +20,11 @@ back_to_link_text: Zurück zu Leistungen
         <div class="swiper-wrapper">
           {% for member in site.data.staff %}
             <div class="swiper-slide staff-member-slide">
-              <header class="staff-member-wortpaar"></header>
+              <header class="staff-member-wortpaar">
+                <img src="{{ member.wortpaar_path }}">
+              </header>
               <div class="staff-member-img">
+                <img class="staff-member-gif" src="{{ member.gif_path }}">
                 <img src="{{ member.image_path }}">
               </div>
               <div class="staff-member-details">
