@@ -310,11 +310,32 @@ span.tag {
   padding: 200px 0;
 }
 
+.team-swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.team-swiper-container .swiper-slide {
+  text-align: left;
+  font-size: 18px;
+  background: #fff;
+}
+.team-swiper-container .swiper-slide .staff-member-img { margin: 20px 0;}
+
+.team-swiper-container .swiper-slide .staff-member-wortpaar,
+.team-swiper-container .swiper-slide .staff-member-details { opacity: 0;}
+
+.team-swiper-container .swiper-slide .staff-member-details h3 { margin: 0;}
+
+.team-swiper-container .swiper-slide:hover .staff-member-wortpaar,
+.team-swiper-container .swiper-slide:hover .staff-member-details { opacity: 1;}
+
+
+
 .section-hero.projekt-detail {padding-bottom: 0; min-height: auto;}
 
 .section-hero .wortpaar { margin-bottom: 60px;}
 .section-hero h2 { color: #db081a;}
-.section-hero p { font-size: 28px; line-height: 140%;}
+.section-hero p { font-size: 28px; line-height: 180%;}
 
 h3.section-header { margin-bottom: 80px; text-align: center;}
 

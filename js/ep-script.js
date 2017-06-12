@@ -13,6 +13,16 @@ $(document).ready(function () {
           slideShadows: false
           }
       });
+  
+  var team_swiper = new Swiper('.team-swiper-container', {
+    pagination: '.swiper-pagination',
+    slidesPerView: 3,
+    paginationClickable: true,
+    spaceBetween: 30,
+    grabCursor: true,
+    autoplay: 2500,
+    autoplayDisableOnInteraction: true
+    });
       
   $('.navbar').offcanvas({
     disableScrolling: false

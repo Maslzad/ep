@@ -10,17 +10,33 @@ back_to_link_text: Zurück zu Leistungen
 ---
 
 
-<section id="projekte" class="content-section white-bg">
+<section id="team" class="content-section white-bg">
   <div class="container">
     <h2 class="section-header editable">Unser Team</h2>
   </div>
   <div class="container">
-    <div class="projekte-wrapper row">
-      
-      
-
+    
+    <div class="team-swiper-container">
+        <div class="swiper-wrapper">
+          {% for member in site.data.staff %}
+            <div class="swiper-slide staff-member-slide">
+              <header class="staff-member-wortpaar"></header>
+              <div class="staff-member-img">
+                <img src="{{ member.image_path }}">
+              </div>
+              <div class="staff-member-details">
+                <h3 class="red-txt">{{ member.name}}</h3>
+                <h4>{{ member.position}}</h4>
+                <p>{{member.description}}</p>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+        <!-- Add Pagination -->
+        <div class="swiper-pagination"></div>
     </div>
   </div>
+  
 </section>
 
 
