@@ -2,8 +2,8 @@
   position: CEO
   description: 'Das Herz und die Seele. Königin des Networkings. Verhandlungsexpertin. Markenzeichen rot, EP-rot. Temperamentvoll, passioniert, ehrlich, transparent, zielstrebig – aufopfernd für Ihre Kunden.'
   wortpaar_path: /uploads/ehrlich-passioniert-pos.png
-  image_path: 'http://via.placeholder.com/380x490'
-  gif_path:
+  image_path: /uploads/emi.jpg
+  gif_path: /uploads/emi.gif
 - name: Sophia Bolland
   position: Junior PR Manager
   description: 'Sonnenschein der Agentur. Liest ihren Kunden wie keine andere die Wünsche von den Augen ab. Kreative Querdenkerin. Hat den Blick fürs Detail. Filter, Hashtags und Co.'
