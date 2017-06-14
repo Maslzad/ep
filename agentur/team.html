@@ -19,6 +19,7 @@ back_to_link_text: Zurück zu Leistungen
     <div class="team-swiper-container">
         <div class="swiper-wrapper">
           {% for member in site.data.staff %}
+            {% if member.show %}
             <div class="swiper-slide staff-member-slide">
               <header class="staff-member-wortpaar">
                 <img src="{{ member.wortpaar_path }}">
@@ -33,6 +34,7 @@ back_to_link_text: Zurück zu Leistungen
                 <p>{{member.description}}</p>
               </div>
             </div>
+            {% endif %}
           {% endfor %}
         </div>
         <!-- Add Pagination -->
