@@ -16,12 +16,20 @@ hero_image_path: "hero-jobs.jpg"
   <div class="container">
     <div class="jobs-wrapper row">
       
-      {% for job in site.jobs %}
+      {% if site.jobs.length > 0 %}
+        {% for job in site.jobs %}
+      
+          <div class="col-md-12">
+            {% include job-item.html %}
+          </div>
+        {% endfor %}
+      {% else %}
         <div class="col-md-12">
-          {% include job-item.html %}
+          <p>Leider sind aktuell alle Stellen besetzt, aber eine überzeugende Initiativbewerbung bekommt immer eine Chance.</p>
+          <p>Bitte schicken an: <a href="mailto:jobs@ep-communication.de">jobs@ep-communication.de</a>
         </div>
-      {% endfor %}
-
+      {% endif %}
+      
     </div>
   </div>
 </section>
