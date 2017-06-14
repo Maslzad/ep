@@ -18,7 +18,7 @@
   wortpaar_path: /uploads/entsetzlich-proaktiv-pos.png
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
-  show: true
+  show: false
 - name: Jana Hohlfinger
   position: 'PR Manager & Executive Assistant'
   description: 'Charmante Schreibabteilung. Ob Presse- oder Werbetexte, Slogans oder redaktionelle Beiträge. Organisierter Kalender auf zwei Beinen. Hat einen heißen Draht zu Kunden, Lieferanten und Partnern.'
