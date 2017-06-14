@@ -436,6 +436,7 @@ label { display: none;}
   .services-wrapper .service-item { text-align: center; height: 120px;}
   h2 { font-size: 28px;}
   .section-header {padding: 0 15px;}
+  .index .ep-hero { padding: 15px;}
 }
 
 @media (min-width: 0) {
