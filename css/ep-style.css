@@ -359,8 +359,14 @@ h3.section-header { margin-bottom: 80px; text-align: center;}
 }
 
 .services-wrapper .service-item {
-  background: #FFFFFF;
+  background: #ffffff;
   border: 4px solid #A8A8A8;
+  display: table;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  /*display: table;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -372,15 +378,24 @@ h3.section-header { margin-bottom: 80px; text-align: center;}
   -webkit-box-align: center;
   -webkit-align-items: center;
   -ms-flex-align: center;
-  align-items: center;
+  align-items: center;*/
   font-size: 26px;
   text-transform: uppercase;
   height: 260px;
   margin-bottom: 20px;
 }
-.services-wrapper .service-item .hover { display: none; position: absolute; }
-.services-wrapper .service-item:hover { background-color: #db081a; border-color: #db081a;}
-.services-wrapper .service-item:hover .hover { display: block;}
+.services-wrapper .service-item .link-text {
+  display: table-cell;
+  vertical-align: middle;
+}
+.services-wrapper .service-item .hover { display: none;}
+.services-wrapper .service-item:hover .hover { display: table-cell;vertical-align: middle; }
+
+
+.services-wrapper .service-item .hover { background-color: #db081a;}
+.services-wrapper .service-item .hover img { }
+.services-wrapper .service-item:hover { border-color: #db081a;}
+
 .services-wrapper .service-item:hover .link-text { display: none;}
 
 
@@ -443,6 +458,11 @@ label { display: none;}
   h2 { font-size: 28px;}
   .section-header {padding: 0 15px;}
   .index .ep-hero { padding: 15px;}
+  .index .ep-hero h1.heading{ font-size: 28px;}
+  .ep-hero-content .wortpaar { height: 80px; margin-bottom: 16px;}
+
+  .services-wrapper .service-item:hover {text-align: left;}
+  .services-wrapper .service-item:hover .hover {padding-left: 30px;}
 }
 
 @media (min-width: 0) {
