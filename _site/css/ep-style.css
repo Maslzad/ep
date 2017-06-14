@@ -42,7 +42,13 @@ a:visited {
 
 a:hover,
 a:focus,
-a:active { text-decoration: none; color: #db081a;}
+a:active { text-decoration: none; color: #db081a; }
+
+
+.red-bg a:hover,
+.red-bg a:focus,
+.red-bg a:active { text-decoration: none; color: #222; border-bottom: 2px solid #fff;}
+
 
 /*Background-Styles*/
 .red-bg     {background-color: #db081a; color: #FFFFFF}
@@ -436,6 +442,7 @@ label { display: none;}
   .services-wrapper .service-item { text-align: center; height: 120px;}
   h2 { font-size: 28px;}
   .section-header {padding: 0 15px;}
+  .index .ep-hero { padding: 15px;}
 }
 
 @media (min-width: 0) {

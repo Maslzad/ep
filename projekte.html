@@ -16,11 +16,15 @@ hero_image_path: "hero-projekte.jpg"
   <div class="container">
     <div class="projekte-wrapper row">
       
-      {% for project in site.projects %}
-        <div class="col-md-4">
-          {% include project-item.html %}
-        </div>
-      {% endfor %}
+      {% if site.projects.length > 0 %}
+        {% for project in site.projects %}
+          <div class="col-md-4">
+            {% include project-item.html %}
+          </div>
+        {% endfor %}
+      {% else %}
+        <p>Ihr dürft gespannt sein ...</p>
+      {% endif %}
 
       
       
