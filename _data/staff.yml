@@ -9,16 +9,16 @@
   position: Junior PR Manager
   description: 'Sonnenschein der Agentur. Liest ihren Kunden wie keine andere die Wünsche von den Augen ab. Kreative Querdenkerin. Hat den Blick fürs Detail. Filter, Hashtags und Co.'
   wortpaar_path: /uploads/empathisch-pfiffig-pos.png
-  image_path: /uploads/sophia.jpg
-  gif_path: /uploads/sophia.gif
+  image_path: /uploads/sophia-2.jpg
+  gif_path: /uploads/sophia-2.gif
   show: true
 - name: Michel-Ramon Bollmann
   position: 'Project Manager Marketing & Event'
   description: Liebenswerter Sturkopf. Geht für Kunden mit dem Kopf durch die Wand. Zieht als Projektleiter alle Fäden. Hat einen Sinn für das große Ganze ohne das Kleine zu übersehen. Anpacken statt Deligieren.
   wortpaar_path: /uploads/entsetzlich-proaktiv-pos.png
-  image_path: 'http://via.placeholder.com/380x490'
-  gif_path:
-  show: false
+  image_path: /uploads/michael.jpg
+  gif_path: /uploads/michael.gif
+  show: true
 - name: Jana Hohlfinger
   position: 'PR Manager & Executive Assistant'
   description: 'Charmante Schreibabteilung. Ob Presse- oder Werbetexte, Slogans oder redaktionelle Beiträge. Organisierter Kalender auf zwei Beinen. Hat einen heißen Draht zu Kunden, Lieferanten und Partnern.'
