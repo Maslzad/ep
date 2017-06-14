@@ -4,51 +4,60 @@
   wortpaar_path: /uploads/ehrlich-passioniert-pos.png
   image_path: /uploads/emi.jpg
   gif_path: /uploads/emi.gif
+  show: true
 - name: Sophia Bolland
   position: Junior PR Manager
   description: 'Sonnenschein der Agentur. Liest ihren Kunden wie keine andere die Wünsche von den Augen ab. Kreative Querdenkerin. Hat den Blick fürs Detail. Filter, Hashtags und Co.'
   wortpaar_path: /uploads/empathisch-pfiffig-pos.png
   image_path: /uploads/sophia.jpg
   gif_path: /uploads/sophia.gif
+  show: true
 - name: Michel-Ramon Bollmann
   position: 'Project Manager Marketing & Event'
   description: Liebenswerter Sturkopf. Geht für Kunden mit dem Kopf durch die Wand. Zieht als Projektleiter alle Fäden. Hat einen Sinn für das große Ganze ohne das Kleine zu übersehen. Anpacken statt Deligieren.
   wortpaar_path: /uploads/entsetzlich-proaktiv-pos.png
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
+  show: true
 - name: Jana Hohlfinger
   position: 'PR Manager & Executive Assistant'
   description: 'Charmante Schreibabteilung. Ob Presse- oder Werbetexte, Slogans oder redaktionelle Beiträge. Organisierter Kalender auf zwei Beinen. Hat einen heißen Draht zu Kunden, Lieferanten und Partnern.'
   wortpaar_path: /uploads/eloquent-problemloesend-pos.png
   image_path: /uploads/jana.jpg
   gif_path: /uploads/jana.gif
+  show: true
 - name: Carmen Weiß
   position: 'Senior Strategy & Content Manager / New Business'
   description: Die hinreißend Seltsame. Sprudelt über vor Berufserfahrung und Ideen. Entwickelt außergewöhnliche Kampagnen und Strategien. Lebt für kleine Projekte genauso wie für große Kampagnen.
   wortpaar_path: /uploads/erfrischend-plemplem-pos.png
   image_path: /uploads/carmen.jpg
   gif_path: /uploads/carmen.gif
+  show: true
 - name: Iris Lück
   position: 'Market Research & Strategic Marketing Manager'
   description: 'Die, die immer (markt-)forscht. Unüberlegte Entscheidungen kennt sie nicht. Mit Kampagnen, Strategien und Konzepten setzt sie effizient und wirkungsstark am Kundenzahn der Zeit an.'
   wortpaar_path: /uploads/echt-punktgenau-pos.png
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
+  show: true
 - name: Veronika Dohmen
   position: Senior PR Managerin
   description: Der Ruhepol. Ihre Pressetexte sind genauso wie sie – auf den Punkt. Beste Kontakte zu Journalisten zeichnen sie genauso aus wie umfangreiches Journalistisches Fachwissen.
   wortpaar_path:
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
+  show: true
 - name: Jochem Wahl
   position: Creative Director
   description: 'Old but gold. Kreativer durch und durch. Regisseur. Produzent. Jahrzehnte Film-, Kino- und TV-Spots.  Konzepte sind seine Stärke. Probleme kennt er nicht. Er löst sie.'
   wortpaar_path: /uploads/einfallsreich-pragmatisch-pos.png
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
+  show: true
 - name: Jens Erbeck
   position: Art Director
   description: Text folgt
   wortpaar_path: /uploads/einzigartig-praezise-pos.png
   image_path: /uploads/jens.jpg
   gif_path: /uploads/jens.gif
+  show: true
