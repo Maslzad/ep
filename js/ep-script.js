@@ -3,8 +3,8 @@ $(document).ready(function () {
           direction: 'vertical',
           pagination: '.swiper-pagination',//
 //           effect: 'cube',
-          grabCursor: false,          //
-          // autoplay: 10000,
+          grabCursor: false,
+          autoplay: 10000,
           keyboardControl: true,
           mousewheelControl: true,
           loop: true// ,
