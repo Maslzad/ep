@@ -29,10 +29,5 @@ collections:
   jobs:
     output: true
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "staff"
-    values:
-      tags: "test"
+_comments:
+  tags: "test"
