@@ -1,7 +1,7 @@
 - name: Emitis Pohl
   position: CEO
   description: 'Das Herz und die Seele. Königin des Networkings. Verhandlungsexpertin. Markenzeichen rot, EP-rot. Temperamentvoll, passioniert, ehrlich, transparent, zielstrebig – aufopfernd für Ihre Kunden.'
-  prev_clients:
+  tags:
     - Madonna
     - TOTAL
     - LeGrande
@@ -15,7 +15,7 @@
 - name: Sophia Bolland
   position: Junior PR Manager
   description: 'Sonnenschein der Agentur. Liest ihren Kunden wie keine andere die Wünsche von den Augen ab. Kreative Querdenkerin. Hat den Blick fürs Detail. Filter, Hashtags und Co.'
-  prev_clients:
+  tags:
   wortpaar_path: /uploads/empathisch-pfiffig-pos.png
   image_path: /uploads/sophia-2.jpg
   gif_path: /uploads/sophia-2.gif
@@ -32,14 +32,14 @@
   position: 'PR Manager & Executive Assistant'
   description: 'Charmante Schreibabteilung. Ob Presse- oder Werbetexte, Slogans oder redaktionelle Beiträge. Organisierter Kalender auf zwei Beinen. Hat einen heißen Draht zu Kunden, Lieferanten und Partnern.'
   wortpaar_path: /uploads/eloquent-problemloesend-pos.png
-  prev_clients:
+  tags:
   image_path: /uploads/jana.jpg
   gif_path: /uploads/jana.gif
   show: true
 - name: Carmen Weiß
   position: 'Senior Strategy & Content Manager / New Business'
   description: Die hinreißend Seltsame. Sprudelt über vor Berufserfahrung und Ideen. Entwickelt außergewöhnliche Kampagnen und Strategien. Lebt für kleine Projekte genauso wie für große Kampagnen.
-  prev_clients: 
+  tags: 
     - Lee
     - Moulinex/Krups
     - Henkel
@@ -53,8 +53,7 @@
 - name: Iris Lück
   position: 'Market Research & Strategic Marketing Manager'
   description: 'Die, die immer (markt-)forscht. Unüberlegte Entscheidungen kennt sie nicht. Mit Kampagnen, Strategien und Konzepten setzt sie effizient und wirkungsstark am Kundenzahn der Zeit an.'
-  prev_clients:
-    - 
+  tags:
   wortpaar_path: /uploads/echt-punktgenau-pos.png
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
@@ -62,7 +61,7 @@
 - name: Veronika Dohmen
   position: Senior PR Managerin
   description: Der Ruhepol. Ihre Pressetexte sind genauso wie sie – auf den Punkt. Beste Kontakte zu Journalisten zeichnen sie genauso aus wie umfangreiches Journalistisches Fachwissen.
-  prev_clients:
+  tags:
   wortpaar_path:
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
@@ -70,7 +69,7 @@
 - name: Jochem Wahl
   position: Creative Director
   description: 'Old but gold. Kreativer durch und durch. Regisseur. Produzent. Jahrzehnte Film-, Kino- und TV-Spots.  Konzepte sind seine Stärke. Probleme kennt er nicht. Er löst sie.'
-  prev_clients:
+  tags:
   wortpaar_path: /uploads/einfallsreich-pragmatisch-pos.png
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
@@ -78,7 +77,7 @@
 - name: Jens Erbeck
   position: Art Director
   description: 'Der realistisch Kreative. Seit Anfang der 90er-Jahre Art Director. Verschwendet weder Zeit noch Ressourcen. Strategisches Denken, konzeptionelle & kreative Lösungen. Liebt die Fotografie in der echten Welt.'
-  prev_clients:
+  tags:
   wortpaar_path: /uploads/einzigartig-praezise-pos.png
   image_path: /uploads/jens.jpg
   gif_path: /uploads/jens.gif
@@ -86,7 +85,7 @@
 - name: Wsewolod Rawdin
   position:
   description: 'Der gutmütige Ruhepol. Praktikant mit Ambitionen. Begeisterter Teamplayer, vielseitig interessiert, wissbegierig. Blickt über den Tellerrand. Kommunikations-Allrounder.'
-  prev_clients:
+  tags:
   wortpaar_path:
   image_path:
   gif_path:
