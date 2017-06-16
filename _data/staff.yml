@@ -39,7 +39,7 @@
 - name: Carmen Weiß
   position: 'Senior Strategy & Content Manager / New Business'
   description: Die hinreißend Seltsame. Sprudelt über vor Berufserfahrung und Ideen. Entwickelt außergewöhnliche Kampagnen und Strategien. Lebt für kleine Projekte genauso wie für große Kampagnen.
-  tags: 
+  tags:
     - Lee
     - Moulinex/Krups
     - Henkel
@@ -54,6 +54,9 @@
   position: 'Market Research & Strategic Marketing Manager'
   description: 'Die, die immer (markt-)forscht. Unüberlegte Entscheidungen kennt sie nicht. Mit Kampagnen, Strategien und Konzepten setzt sie effizient und wirkungsstark am Kundenzahn der Zeit an.'
   tags:
+    - TÜVRheinland
+    - CEWE
+    - FidalAG
   wortpaar_path: /uploads/echt-punktgenau-pos.png
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
@@ -62,6 +65,9 @@
   position: Senior PR Managerin
   description: Der Ruhepol. Ihre Pressetexte sind genauso wie sie – auf den Punkt. Beste Kontakte zu Journalisten zeichnen sie genauso aus wie umfangreiches Journalistisches Fachwissen.
   tags:
+    - arilla
+    - DocMorris
+    - NetCologne
   wortpaar_path:
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
@@ -70,6 +76,12 @@
   position: Creative Director
   description: 'Old but gold. Kreativer durch und durch. Regisseur. Produzent. Jahrzehnte Film-, Kino- und TV-Spots.  Konzepte sind seine Stärke. Probleme kennt er nicht. Er löst sie.'
   tags:
+    - Haribo
+    - LG
+    - Maoam
+    - AxelSpringer
+    - Mamanova
+    - ECE
   wortpaar_path: /uploads/einfallsreich-pragmatisch-pos.png
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
@@ -78,6 +90,9 @@
   position: Art Director
   description: 'Der realistisch Kreative. Seit Anfang der 90er-Jahre Art Director. Verschwendet weder Zeit noch Ressourcen. Strategisches Denken, konzeptionelle & kreative Lösungen. Liebt die Fotografie in der echten Welt.'
   tags:
+    - MercedesBenz
+    - DeutscheBank
+    - 'Procter&Gamble'
   wortpaar_path: /uploads/einzigartig-praezise-pos.png
   image_path: /uploads/jens.jpg
   gif_path: /uploads/jens.gif
