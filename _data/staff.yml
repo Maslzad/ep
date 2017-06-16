@@ -1,6 +1,13 @@
 - name: Emitis Pohl
   position: CEO
   description: 'Das Herz und die Seele. Königin des Networkings. Verhandlungsexpertin. Markenzeichen rot, EP-rot. Temperamentvoll, passioniert, ehrlich, transparent, zielstrebig – aufopfernd für Ihre Kunden.'
+  prev_clients: 
+    - Madonna
+    - TOTAL 
+    - LeGrande 
+    - FDP 
+    - VITERRA 
+    - Sony'
   wortpaar_path: /uploads/ehrlich-passioniert-pos.png
   image_path: /uploads/emi.jpg
   gif_path: /uploads/emi.gif
@@ -49,15 +56,23 @@
   show: true
 - name: Jochem Wahl
   position: Creative Director
-  description: 'Old but gold. Kreativer durch und durch. Regisseur. Produzent. Jahrzehnte Film-, Kino- und TV-Spots.  Konzepte sind seine Stärke. Probleme kennt er nicht. Er löst sie.'
+  description: 'Old but gold. Kreativer durch und durch. Regisseur. Produzent. Jahrzehnte Film-, Kino- und TV-Spots.  Konzepte sind seine Stärke. Probleme kennt er nicht. Er löst sie. '
   wortpaar_path: /uploads/einfallsreich-pragmatisch-pos.png
   image_path: 'http://via.placeholder.com/380x490'
   gif_path:
   show: true
 - name: Jens Erbeck
   position: Art Director
-  description: Text folgt
+  description: Der realistisch Kreative. Seit Anfang der 90er-Jahre Art Director. Verschwendet weder Zeit noch Ressourcen. Strategisches Denken, konzeptionelle & kreative Lösungen. Liebt die Fotografie in der echten Welt.
   wortpaar_path: /uploads/einzigartig-praezise-pos.png
   image_path: /uploads/jens.jpg
   gif_path: /uploads/jens.gif
   show: true
+- name: Wsewolod Rawdin
+  position: 
+  description: Der gutmütige Ruhepol. Praktikant mit Ambitionen. Begeisterter Teamplayer, vielseitig interessiert, wissbegierig. Blickt über den Tellerrand. Kommunikations-Allrounder.
+  wortpaar_path: 
+  image_path: 
+  gif_path: 
+  show: false
+  
