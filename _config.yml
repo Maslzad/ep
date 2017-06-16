@@ -33,7 +33,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "clients"
+      type: "staff"
     values:
-      logo_path:
-      url:      
+      tags: "test"
