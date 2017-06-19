@@ -497,7 +497,7 @@ label { display: none;}
   .index .ep-hero { padding: 15px;}
   .index .ep-hero h1.heading{ font-size: 28px;}
   .ep-hero-content .wortpaar { height: 80px; margin-bottom: 16px;}
-
+  form#contactForm { margin-bottom: 40px;}
   .services-wrapper .service-item:hover {text-align: left;}
   .services-wrapper .service-item:hover .hover {padding-left: 30px;}
 }
