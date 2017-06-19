@@ -377,7 +377,7 @@ span.tag {
 
 .section-hero .wortpaar { margin-bottom: 60px;}
 .section-hero h2 { color: #db081a;}
-.section-hero p { font-size: 28px; line-height: 180%;}
+.section-hero p { font-size: 24px; line-height: 160%;}
 
 h3.section-header { margin-bottom: 80px; text-align: center;}
 
@@ -479,7 +479,13 @@ h3.section-header { margin-bottom: 80px; text-align: center;}
 label { display: none;}
 
 @media (max-width: 768px) {
-  .section-hero { padding: 130px 0;}
+  .section-hero { 
+    padding: 130px 0;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-height: auto;
+  }
   .section-hero p { font-size: 18px;}
   section.content-section {padding: 50px 0;}
   .jumper-item { margin-bottom: 20px;}
@@ -487,7 +493,7 @@ label { display: none;}
   footer .pre-footer { padding: 75px 0; height: auto;}
   .services-wrapper .service-item { text-align: center; height: 120px;}
   h2 { font-size: 28px;}
-  .section-header {padding: 0 15px;}
+  .section-header {padding: 0px;}
   .index .ep-hero { padding: 15px;}
   .index .ep-hero h1.heading{ font-size: 28px;}
   .ep-hero-content .wortpaar { height: 80px; margin-bottom: 16px;}
