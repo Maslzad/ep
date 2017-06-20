@@ -502,6 +502,14 @@ label { display: none;}
   form#contactForm { margin-bottom: 40px;}
   .services-wrapper .service-item:hover {text-align: left;}
   .services-wrapper .service-item:hover .hover {padding-left: 30px;}
+  .team-swiper-container .swiper-slide .staff-member-wortpaar img { height: 50px;}
+  .team-swiper-container .swiper-slide .staff-member-details h3,
+  .team-swiper-container .swiper-slide .staff-member-details h4 {font-size: 20px;}
+  .team-swiper-container .swiper-slide .staff-member-details p { font-size: 13px;}
+}
+
+@media (max-width: 1200px) {
+  .team-swiper-container .swiper-slide .staff-member-wortpaar img { height: 60px;}
 }
 
 @media (min-width: 0) {
