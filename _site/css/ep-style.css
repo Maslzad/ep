@@ -110,9 +110,9 @@ section.content-section { padding: 100px 0; }
 }
 
 footer .pre-footer { 
-  height: 430px;
+  height: 230px;
   background-color: #F2F2F2;
-  padding: 185px 0;
+  padding: 75px 0;
 }
 footer .final-bar {
   height: 90px;
@@ -476,7 +476,7 @@ h3.section-header { margin-bottom: 80px; text-align: center;}
   display: block;
 }
 
-footer.main-footer {margin-top: 200px;}
+footer.main-footer {margin-top: 60px;}
 
 label { display: none;}
 
@@ -506,6 +506,8 @@ label { display: none;}
   .team-swiper-container .swiper-slide .staff-member-details h3,
   .team-swiper-container .swiper-slide .staff-member-details h4 {font-size: 20px;}
   .team-swiper-container .swiper-slide .staff-member-details p { font-size: 13px;}
+  .back-link { font-size: 13px;}
+  .back-link .icon-arrow-left { background-size: 70%; vertical-align: middle; margin-right: 0;}
 }
 
 @media (max-width: 1200px) {
