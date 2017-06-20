@@ -377,7 +377,7 @@ span.tag {
 
 .section-hero .wortpaar { margin-bottom: 60px;}
 .section-hero h2 { color: #db081a;}
-.section-hero p { font-size: 24px; line-height: 160%;}
+.section-hero p { font-size: 21px; line-height: 160%;}
 
 h3.section-header { margin-bottom: 80px; text-align: center;}
 
@@ -475,6 +475,8 @@ h3.section-header { margin-bottom: 80px; text-align: center;}
 .btn-block {
   display: block;
 }
+
+footer.main-footer {margin-top: 200px;}
 
 label { display: none;}
 
