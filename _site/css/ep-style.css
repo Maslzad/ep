@@ -150,7 +150,8 @@ footer .final-bar {
 
 .navmenu ul.main-nav,
 .navmenu .social-links,
-.navmenu .adress {
+.navmenu .adress,
+.navmenu .legal {
   padding-left: 47px;
 }
 
@@ -177,6 +178,7 @@ footer .final-bar {
 }
 
 .navmenu .adress { font-size: 14px;}
+.navmenu .legal { font-size: 11px;}
 
 .canvas-sliding .navbar-brand {
   display: none;
