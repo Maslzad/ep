@@ -10,7 +10,7 @@ tags:
   - Kampagne
   - Full Service
 _comments:
-  layout: Bitte nicht verändert
+  layout: Bitte nicht verändern
   title: Überschrift
   image_path: "Hauptbild des Projektes (Optimales Format: 16:9)"
   thumbnail_path: "Kleineres Bild für Projekte-Übersicht (Optimales Format: 4:3)"
