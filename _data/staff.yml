@@ -83,7 +83,7 @@
     - Mamanova
     - ECE
   wortpaar_path: /uploads/einfallsreich-pragmatisch-pos.png
-  image_path: /uploads/jochem.png
+  image_path:
   gif_path: /uploads/Jochem.gif
   show: true
 - name: Jens Erbeck
