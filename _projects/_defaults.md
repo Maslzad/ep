@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 
-subtitle
+subtitle:
 client: 
 image_path: "http://via.placeholder.com/1024x724"
 thumbnail_path: "http://via.placeholder.com/300x200"
