@@ -102,18 +102,18 @@
       </ul>
       
       <div class="social-links">
-        <a href="tel:+49 (0)221 96 98 95-90"><i class="fa fa-phone" aria-hidden="true"></i></a>
+        <a href="tel:{{ site.data.settings.tel}}"><i class="fa fa-phone" aria-hidden="true"></i></a>
         <a href="/kontakt"><i class="fa fa-envelope" aria-hidden="true"></i></a>
-        <a href="https://www.facebook.com/epcommunicationgmbh" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-        <a href="https://twitter.com/ep_comm_gmbh" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-        <a href="https://www.instagram.com/epcommunication/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-        <a href="https://www.xing.com/companies/epcommunicationgmbh" target="_blank"><i class="fa fa-xing" aria-hidden="true"></i></a>
+        <a href="{{ site.data.settings.facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+        <a href="{{ site.data.settings.twitter}}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+        <a href="{{ site.data.settings.instagram}}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+        <a href="{{ site.data.settings.xing}}" target="_blank"><i class="fa fa-xing" aria-hidden="true"></i></a>
       </div>
       
-      <p class="adress editable">
-        ep communication GmbH<br>
-        Bayenthalgürtel 7<br>
-        50968 Köln
+      <p class="adress">
+        {{ site.data.settings.company_name}}<br>
+        {{ site.data.settings.adress }}<br>
+        {{ site.data.settings.plz}}
       </p>
       <p class="legal">
         <a href="/datenschutz">Datenschutz</a> | <a href="/impressum">Impressum</a>
@@ -139,7 +139,7 @@
       </div>
       <div class="final-bar">
         <div class="container text-center editable">
-          ep communication GmbH · Bayenthalgürtel 7· 50968 Köln
+          {{ site.data.settings.company_name}} · {{ site.data.settings.adress }} · {{ site.data.settings.plz}}
         </div>
       </div>
     </div>

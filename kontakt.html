@@ -102,7 +102,7 @@ intro_text: '<p>Wenn aus unpersönlich persönlich wird: Wir versprechen Ihnen e
                   <p class="help-block text-danger"></p>
               </div>
           </div>
-          <input type="hidden" name="_to" value="{{ site.contact_email}}" />
+          <input type="hidden" name="_to" value="{{ site.data.settings.contact_email }}" />
           <input type="hidden" name="_subject" value="Anfrage über Website" />
           <input type="text" name="_gotcha" style="display: none;" />
           <div class="row">
@@ -119,20 +119,20 @@ intro_text: '<p>Wenn aus unpersönlich persönlich wird: Wir versprechen Ihnen e
           <img src="/img/logo-ep-pos.svg">
         </div>
         <div class="contact-details">
-          <p class="adress editable">
-            ep communication GmbH<br>
-            Bayenthalgürtel 7<br>
-            50968 Köln
+          <p class="adress">
+            {{ site.data.settings.company_name}}<br>
+            {{ site.data.settings.adress }}<br>
+            {{ site.data.settings.plz}}
           </p>
           <p class="tel">
-            T <a href="tel:+49 (0)221 96 98 95-90" class="editable">+49 (0)221 96 98 95-90</a><br>
-            F <span class="editable">+49 (0)221 96 98 95-96</span><br>
-            <a href="mailto:info@ep-communication.de" class="editable">info@ep-communication.de</a>
+            T <a href="tel:{{ site.data.settings.tel}}" >{{ site.data.settings.tel}}</a><br>
+            F <span >{{ site.data.settings.fax}}</span><br>
+            <a href="mailto:{{site.data.settings.contact_email}}">{{site.data.settings.contact_email}}</a>
           </p>
           <p class="editable">
-            CEO Emitis Pohl<br>
-            Amtsgericht Köln HRB 76168<br>
-            USt-Nr DE284 154 502
+            CEO {{ site.data.settings.ceo }}<br>
+            Amtsgericht {{ site.data.settings.amtsgericht}}<br>
+            USt-Nr {{ site.data.settings.ust_id}}
           </p>
           <p>
             <a href="https://www.google.de/maps/place/ep+communication+GmbH/@50.9054723,6.975331,20z/data=!4m5!3m4!1s0x47bf24eedf37498d:0xce0782f2ef3a7e04!8m2!3d50.9054723!4d6.9756046" target="_blank">Route bei Google Maps</a>
