@@ -12,8 +12,8 @@ tags:
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
-  image_path: "Hauptbild des Projektes (Optimales Format: 16:9)"
-  thumbnail_path: "Kleineres Bild für Projekte-Übersicht (Optimales Format: 4:3)"
+  image_path: "Hauptbild des Projektes (Optimales Format: 16:9, max 1024px breite)"
+  thumbnail_path: "Kleineres Bild für Projekte-Übersicht (Optimales Format: 4:3, max 1024px breite)"
 ---
 
 
