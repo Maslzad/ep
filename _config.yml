@@ -9,16 +9,7 @@ xing: https://www.xing.com/companies/epcommunicationgmbh
 facebook: https://www.facebook.com/epcommunicationgmbh
 instagram: https://www.instagram.com/epcommunication/
 
-company_name: ep communication GmbH
-address: Bayenthalgürtel 7
-plz: 50968 Köln
-tel: +49 (0)221 96 98 95-90
-fax: +49 (0)221 96 98 95-96
-ceo: Emitis Pohl
-amtsgericht: Köln HRB 76168
-ust-nr: DE284 154 502
-contact_email: info@ep-communication.de
-web: www.ep-communication.de
+
 
 # Build settings
 markdown: kramdown

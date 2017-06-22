@@ -15,6 +15,16 @@ layout: default
   </div>
 </div>
 
+<section class="content-section">
+  <div class="container">
+    <div class="features row">
+      {% for tag in page.tags %}
+        <div class="col-md-6 feature-item">{{ tag }}</div>
+      {%endfor%}
+    </div>
+  </div>
+</section>
+
 {{ content }}
 
 
@@ -24,11 +34,11 @@ layout: default
     <div class="arrow-divider text-center"><img src="../img/icons/arrow-down-blue.svg"></div>
     <div class="row">
       
-      {% include jumper-item.html link_title="Die Agentur" link_path="/agentur" img_path="img/jumper-agentur.png" %}
+      {% include jumper-item.html link_title="Die Agentur" link_path="/agentur" img_path="/img/wortpaare/eindrucksvoll-punkt-neg.svg" %}
       
-      {% include jumper-item.html link_title="Projekte" link_path="/projekte" img_path="img/jumper-projekte.png" %}
+      {% include jumper-item.html link_title="Projekte" link_path="/projekte" img_path="/img/wortpaare/enthusiastisch-produktiv-neg.svg" %}
       
-      {% include jumper-item.html link_title="Kontakt" link_path="/kontakt" img_path="img/jumper-kontakt.png" %}
+      {% include jumper-item.html link_title="Kontakt" link_path="/kontakt" img_path="/img/wortpaare/einfach-persoenlich-neg.svg" %}
       
       
     </div>

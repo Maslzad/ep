@@ -112,24 +112,27 @@ intro_text: '<p>Wenn aus unpersönlich persönlich wird: Wir versprechen Ihnen e
           </div>
         </form>
       </div>
+      
+      
       <div class="col-md-4 offset-md-2">
         <div class="ep-logo">
           <img src="/img/logo-ep-pos.svg">
         </div>
         <div class="contact-details">
-          <p class="adress">
-            {{ site.company_name }}<br>
-            {{ site.address }}<br>
-            {{ site.plz}}
+          <p class="adress editable">
+            ep communication GmbH<br>
+            Bayenthalgürtel 7<br>
+            50968 Köln
           </p>
           <p class="tel">
-            T <a href="tel:{{site.tel}}">{{ site.tel }}</a><br>
-            F {{ site.fax }}
+            T <a href="tel:+49 (0)221 96 98 95-90" class="editable">+49 (0)221 96 98 95-90</a><br>
+            F <span class="editable">+49 (0)221 96 98 95-96</span><br>
+            <a href="mailto:info@ep-communication.de" class="editable">info@ep-communication.de</a>
           </p>
-          <p>
-            CEO {{ site.ceo }}<br>
-            Amtsgericht {{ site.amtsgericht }}<br>
-            USt-Nr {{ site.ust-nr }}
+          <p class="editable">
+            CEO Emitis Pohl<br>
+            Amtsgericht Köln HRB 76168<br>
+            USt-Nr DE284 154 502
           </p>
           <p>
             <a href="https://www.google.de/maps/place/ep+communication+GmbH/@50.9054723,6.975331,20z/data=!4m5!3m4!1s0x47bf24eedf37498d:0xce0782f2ef3a7e04!8m2!3d50.9054723!4d6.9756046" target="_blank">Route bei Google Maps</a>
@@ -149,13 +152,14 @@ intro_text: '<p>Wenn aus unpersönlich persönlich wird: Wir versprechen Ihnen e
     <div class="arrow-divider text-center"><img src="../img/icons/arrow-down-blue.svg"></div>
     <div class="row">
       
-      {% include jumper-item.html link_title="Die Agentur" link_path="/agentur" img_path="img/jumper-agentur.png" %}
+      {% include jumper-item.html link_title="Die Agentur" link_path="/agentur" img_path="/img/wortpaare/eindrucksvoll-punkt-neg.svg" %}
       
-      {% include jumper-item.html link_title="Leistungen" link_path="/leistungen" img_path="img/jumper-leistungen.png" %}
+      {% include jumper-item.html link_title="Leistungen" link_path="/leistungen" img_path="/img/wortpaare/effektiv-pulsierend-neg.svg" %}
       
-      {% include jumper-item.html link_title="Projekte" link_path="/projekte" img_path="img/jumper-projekte.png" %}
+      {% include jumper-item.html link_title="Projekte" link_path="/projekte" img_path="/img/wortpaare/enthusiastisch-produktiv-neg.svg" %}
       
       
+
     </div>
   </div>
 </section>

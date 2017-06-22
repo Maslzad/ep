@@ -9,7 +9,7 @@ hero_image_path: hero-projekte.jpg
 ---
 
 
-<!-- <section id="projekte" class="content-section white-bg">
+<section id="projekte" class="content-section white-bg">
   <div class="container">
     <h2 class="section-header editable">Eine Auswahl unserer Projekte</h2>
   </div>
@@ -22,15 +22,8 @@ hero_image_path: hero-projekte.jpg
             {% include project-item.html %}
           </div>
         {% endfor %}
-      {% else %}
-        <div class="col-md-12"><p>Projekte folgen in Kürze.</p></div>
       {% endif %}
 
-
-
-    
-  
- -->
 
 
 <section id="jumper-section" class="content-section">
@@ -39,13 +32,14 @@ hero_image_path: hero-projekte.jpg
     <div class="arrow-divider text-center"><img src="../img/icons/arrow-down-blue.svg" /></div>
     <div class="row">
       
-      {% include jumper-item.html link_title="Die Agentur" link_path="/agentur" img_path="img/jumper-agentur.png" %}
+      {% include jumper-item.html link_title="Die Agentur" link_path="/agentur" img_path="/img/wortpaare/eindrucksvoll-punkt-neg.svg" %}
       
-      {% include jumper-item.html link_title="Leistungen" link_path="/leistungen" img_path="img/jumper-leistungen.png" %}
-      
-      {% include jumper-item.html link_title="Kontakt" link_path="/kontakt" img_path="img/jumper-kontakt.png" %}
+      {% include jumper-item.html link_title="Leistungen" link_path="/leistungen" img_path="/img/wortpaare/effektiv-pulsierend-neg.svg" %}
       
       
+      {% include jumper-item.html link_title="Kontakt" link_path="/kontakt" img_path="/img/wortpaare/einfach-persoenlich-neg.svg" %}
+      
+
     </div>
   </div>
 </section>
