@@ -83,9 +83,9 @@
     - Mamanova
     - ECE
   wortpaar_path: /uploads/einfallsreich-pragmatisch-pos.png
-  image_path: 'http://via.placeholder.com/380x490'
+  image_path: /uploads/jochem.png
   gif_path:
-  show: false
+  show: true
 - name: Jens Erbeck
   position: Art Director
   description: 'Der realistisch Kreative. Seit Anfang der 90er-Jahre Art Director. Verschwendet weder Zeit noch Ressourcen. Strategisches Denken, konzeptionelle & kreative Lösungen. Liebt die Fotografie in der echten Welt.'
