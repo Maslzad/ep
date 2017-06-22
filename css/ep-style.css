@@ -503,13 +503,7 @@ footer.main-footer {margin-top: 60px;}
 label { display: none;}
 
 @media (max-width: 768px) {
-  .section-hero { 
-    padding: 130px 0;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: top;
-    min-height: auto;
-  }
+  .section-hero { padding: 130px 0;}
   .section-hero p { font-size: 18px;}
   section.content-section {padding: 50px 0;}
   .jumper-item { margin-bottom: 20px;}
@@ -533,6 +527,16 @@ label { display: none;}
   .section-hero .wortpaar img { height: 90px; max-width: auto !important;}
 }
 
+@media (max-width: 1024px) {
+  .section-hero { 
+    padding: 200px 0;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    min-height: auto;
+  }
+}
+
 @media (max-width: 1200px) {
   .team-swiper-container .swiper-slide .staff-member-wortpaar img { height: 60px;}
 }
@@ -542,6 +546,8 @@ label { display: none;}
     display: block; /* force showing the toggle */
   }
 }
+
+
 
 @media (min-width: 992px) {
   body {
