@@ -85,7 +85,7 @@
   wortpaar_path: /uploads/einfallsreich-pragmatisch-pos.png
   image_path: /uploads/jochem.png
   gif_path:
-  show: true
+  show: false
 - name: Jens Erbeck
   position: Art Director
   description: 'Der realistisch Kreative. Seit Anfang der 90er-Jahre Art Director. Verschwendet weder Zeit noch Ressourcen. Strategisches Denken, konzeptionelle & kreative Lösungen. Liebt die Fotografie in der echten Welt.'
