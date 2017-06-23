@@ -145,13 +145,14 @@ footer .final-bar {
 
 .navmenu ul.main-nav {
   display: block;
-  padding: 60px 0;
+  padding: 60px 0 10px;
 }
 
 .navmenu ul.main-nav,
 .navmenu .social-links,
 .navmenu .adress,
-.navmenu .legal {
+.navmenu .legal,
+.navmenu .ext_links {
   padding-left: 47px;
 }
 
@@ -169,7 +170,8 @@ footer .final-bar {
  text-transform: uppercase;
 }
 
-.navmenu .social-links { margin-bottom: 70px;}
+.navmenu .ext_links { margin: 30px 0;}
+.navmenu .ext_links a { font-size: 16px; line-height: 22px;}
 .navmenu .social-links a { 
   color: #A8A8A8; font-size: 28px; margin-right: 14px;}
 
