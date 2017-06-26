@@ -373,7 +373,17 @@ span.tag {
   font-size: 18px;
   background: #fff;
 }
-.team-swiper-container .swiper-slide .staff-member-img { margin: 20px 0; position: relative;}
+
+.staff-member-item { margin-bottom: 40px;}
+.staff-member-item header.staff-member-wortpaar img { height: 70px;}
+.staff-member-item .staff-member-img { margin: 20px 0; position: relative;}
+.staff-member-item .staff-member-img .staff-member-gif { display: none; position: absolute; left: 0; top: 0;}
+.staff-member-item .staff-member-details { display: none; height: 400px;}
+
+.staff-member-item:hover .staff-member-img .staff-member-gif,
+.staff-member-item:hover .staff-member-details {display: block;}
+
+/*.team-swiper-container .swiper-item .staff-member-img { margin: 20px 0; position: relative;}
 .team-swiper-container .swiper-slide .staff-member-img .staff-member-gif { display: none; position: absolute; left: 0; top: 0;}
 .team-swiper-container .swiper-slide:hover .staff-member-img .staff-member-gif {display: block;}
 
@@ -385,7 +395,7 @@ span.tag {
 .team-swiper-container .swiper-slide .staff-member-details h3 { margin: 0;}
 
 .team-swiper-container .swiper-slide:hover .staff-member-wortpaar,
-.team-swiper-container .swiper-slide:hover .staff-member-details { opacity: 1;}
+.team-swiper-container .swiper-slide:hover .staff-member-details { opacity: 1;}*/
 
 
 
@@ -520,10 +530,12 @@ label { display: none;}
   form#contactForm { margin-bottom: 40px;}
   .services-wrapper .service-item:hover {text-align: left;}
   .services-wrapper .service-item:hover .hover {padding-left: 30px;}
-  .team-swiper-container .swiper-slide .staff-member-wortpaar img { height: 50px;}
-  .team-swiper-container .swiper-slide .staff-member-details h3,
-  .team-swiper-container .swiper-slide .staff-member-details h4 {font-size: 20px;}
-  .team-swiper-container .swiper-slide .staff-member-details p { font-size: 13px;}
+  .staff-member-item header.staff-member-wortpaar img { height: 50px;}
+  .staff-member-item { margin-bottom: 20px;}
+  .staff-member-item .staff-member-details h3,
+  .staff-member-item .staff-member-details h4 {font-size: 20px;}
+  .staff-member-item .staff-member-details p { font-size: 13px;}
+  .staff-member-item .staff-member-details { height: 400px;}
   .back-link { font-size: 13px;}
   .back-link .icon-arrow-left { background-size: 70%; vertical-align: middle; margin-right: 0;}
   .section-hero .wortpaar img { height: 90px; max-width: auto !important;}

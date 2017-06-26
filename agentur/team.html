@@ -16,31 +16,28 @@ back_to_link_text: Zurück zu Leistungen
   </div>
   <div class="container">
     
-    <div class="team-swiper-container">
-        <div class="swiper-wrapper">
-          {% for member in site.data.staff %}
-            {% if member.show %}
-            <div class="swiper-slide staff-member-slide">
-              <header class="staff-member-wortpaar">
-                <img src="{{ member.wortpaar_path }}">
-              </header>
-              <div class="staff-member-img">
-                <img class="staff-member-gif" src="{{ member.gif_path }}">
-                <img src="{{ member.image_path }}">
-              </div>
-              <div class="staff-member-details">
-                <h3 class="red-txt">{{ member.name}}</h3>
-                <h4>{{ member.position}}</h4>
-                <p>{{member.description}}</p>
-                {% if member.tags %}<p>Bisher betreut: {%for tag in member.tags %}#{{tag}} {% endfor %}</p>{% endif %}
-              </div>
+    <div class="row">
+      {% for member in site.data.staff %}
+        {% if member.show %}
+          <div class="col-lg-4 col-6 staff-member-item">
+            <header class="staff-member-wortpaar">
+              <img src="{{ member.wortpaar_path }}">
+            </header>
+            <div class="staff-member-img">
+              <img class="staff-member-gif" src="{{ member.gif_path }}">
+              <img src="{{ member.image_path }}">
             </div>
-            {% endif %}
-          {% endfor %}
-        </div>
-        <!-- Add Pagination -->
-        <div class="swiper-pagination"></div>
+            <div class="staff-member-details">
+              <h3 class="red-txt">{{ member.name}}</h3>
+              <h4>{{ member.position}}</h4>
+              <p>{{member.description}}</p>
+              {% if member.tags %}<p>Bisher betreut: {%for tag in member.tags %}#{{tag}} {% endfor %}</p>{% endif %}
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
     </div>
+    
   </div>
   
 </section>
