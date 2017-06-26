@@ -58,9 +58,9 @@
     - CEWE
     - FidalAG
   wortpaar_path: /uploads/echt-punktgenau-pos.png
-  image_path: 'http://via.placeholder.com/380x490'
-  gif_path:
-  show: false
+  image_path: /uploads/iris.jpg
+  gif_path: /uploads/iris.gif
+  show: true
 - name: Veronika Dohmen
   position: Senior PR Managerin
   description: Der Ruhepol. Ihre Pressetexte sind genauso wie sie – auf den Punkt. Beste Kontakte zu Journalisten zeichnen sie genauso aus wie umfangreiches Journalistisches Fachwissen.
