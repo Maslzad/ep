@@ -98,10 +98,10 @@
   gif_path:
   show: false
 - name: Wsewolod Rawdin
-  position:
+  position: Praktikant
   description: 'Der gutmütige Ruhepol. Praktikant mit Ambitionen. Begeisterter Teamplayer, vielseitig interessiert, wissbegierig. Blickt über den Tellerrand. Kommunikations-Allrounder.'
   tags:
-  wortpaar_path:
-  image_path:
-  gif_path:
-  show: false
+  wortpaar_path: /uploads/endlos-positiv-pos.png
+  image_path: /uploads/sewa.jpg
+  gif_path: /uploads/sewa.gif
+  show: true
