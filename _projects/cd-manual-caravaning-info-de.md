@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Ein neues Logo gewünscht?
+title: Neues Logo gewünscht?
 subtitle: "CD Manual - caravaning-info.de - \nWas tun, wenn dem Kunden sein bestehendes Logo nicht mehr gefällt? Mit Freude über die kreative Arbeit erst einmal einen genauen Blick auf den Markt werfen. Wie stellt sich der Wettbewerb dar, welche Bedürfnisse hat die Zielgruppe und ganz wichtig – wofür soll die Marke eigentlich stehen? Und dann geht’s los, die Kreativen toben sich aus, bestimmen Farben und Typos und die finale Version wird dann sauber in einem CD-Manual präsentiert, das erklärt wie das Logo zukünftig eingesetzt wird."
 client: caravaning-info.de
 image_path: /CIG.jpg
@@ -19,8 +19,3 @@ _comments:
 ---
 
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
