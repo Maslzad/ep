@@ -4,7 +4,7 @@ title: Kochen mit den Kleinen
 subtitle: 'Caravaning und Kochen – zwei Themen, die in den Köpfen der Menschen miteinander verbunden sind. Aber was sagen eigentlich die Kleinen dazu? Um der ganzen Familie Tipps & Tricks für das gesunde, schnelle Kochen auf Ihrer Reise zu vermitteln wurde ein Aktionsstand konzipiert und gebaut, auf dem an jedem Messetag stündlich wechselnde TV-Köche ihr Wissen vermittelten. Nicht nur den Interessierten auf Bühne und Tribüne – über eine Live-Schaltung ließ sich die Aktion flächendeckend auf der ganzen Messe verfolgen. Nachmittags aber standen die Kleinen im Rampenlicht. Durchschnittlich 500 Kinder am Tag hatten Spaß beim Lernen, Ausprobieren und vor allem – Naschen.'
 client: Messe Düsseldorf / caravaning-info.de
 image_path: /civd.jpg
-thumbnail_path: 'http://via.placeholder.com/300x200'
+thumbnail_path: /civd.jpg
 tags:
   - Idee
   - Konzeption
@@ -22,8 +22,3 @@ _comments:
 ---
 
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
