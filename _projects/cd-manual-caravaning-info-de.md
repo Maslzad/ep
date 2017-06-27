@@ -23,4 +23,4 @@ _comments:
 
 &nbsp;
 
-![](http://via.placeholder.com/1024x724)
+&nbsp;
