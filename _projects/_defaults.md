@@ -3,8 +3,8 @@ layout: project
 title: 
 subtitle:
 client: 
-image_path: "http://via.placeholder.com/1024x724"
-thumbnail_path: "http://via.placeholder.com/300x200"
+image_path: "http://via.placeholder.com/1024x576"
+thumbnail_path: "http://via.placeholder.com/350x250"
 tags:
   - Print
   - Kampagne
@@ -12,8 +12,8 @@ tags:
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
-  image_path: "Hauptbild des Projektes (Optimales Format: 16:9, max 1024px breite)"
-  thumbnail_path: "Kleineres Bild für Projekte-Übersicht (Optimales Format: 4:3, max 1024px breite)"
+  image_path: "Hauptbild des Projektes (Grösse 1024x576px)"
+  thumbnail_path: "Kleineres Bild für Projekte-Übersicht (Grösse: 350x250px)"
 ---
 
 

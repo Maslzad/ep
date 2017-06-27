@@ -440,7 +440,7 @@ h3.section-header { margin-bottom: 80px; text-align: center;}
   align-items: center;*/
   font-size: 22px;
   text-transform: uppercase;
-  height: 248px;
+  height: 247px;
   margin-bottom: 20px;
 }
 .services-wrapper .service-item .link-text,
@@ -470,7 +470,13 @@ h3.section-header { margin-bottom: 80px; text-align: center;}
 .icon-arrow-right { margin-left: 10px; background: url(../img/icons/arrow-right-blue.svg) no-repeat left top; background-size: 100%;} 
 .icon-arrow-left { margin-right: 10px; background: url(../img/icons/arrow-left-blue.svg) no-repeat left top; background-size: 100%;} 
 
-.project-item { position: relative; display: block;}
+.project-item { 
+  position: relative; 
+  display: block;
+  height: 247px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
 .project-item .hover { display: none; position: absolute; top: 0; left: 0; background-color: rgba(219, 8, 26, 0.8); height: 100%; width: 100%;}
 .project-item:hover .hover { display: block;}
 .project-item .hover h4,

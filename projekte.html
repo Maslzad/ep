@@ -16,14 +16,14 @@ hero_image_path: hero-projekte.jpg
   <div class="container">
     <div class="projekte-wrapper row">
 
-      {% if site.projects.length > 0 %}
         {% for project in site.projects %}
           <div class="col-md-4">
             {% include project-item.html %}
           </div>
         {% endfor %}
-      {% endif %}
-
+    </div>
+  </div>
+</section>
 
 
 <section id="jumper-section" class="content-section">

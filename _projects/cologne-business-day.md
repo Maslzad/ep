@@ -21,10 +21,3 @@ _comments:
   image_path: 'Hauptbild des Projektes (Optimales Format: 16:9, max 1024px breite)'
   thumbnail_path: 'Kleineres Bild für Projekte-Übersicht (Optimales Format: 4:3, max 1024px breite)'
 ---
-
-
-&nbsp;
-
-![](http://via.placeholder.com/1024x724)
-
-![](http://via.placeholder.com/1024x724)
