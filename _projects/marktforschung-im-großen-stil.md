@@ -20,6 +20,6 @@ _comments:
 ---
 
 
-![](/uploads/versions/dometic2---x0-221-1024-724-1024-724x---.jpg)
+&nbsp;
 
 ![](http://via.placeholder.com/1024x724)
