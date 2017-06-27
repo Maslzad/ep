@@ -20,6 +20,7 @@ tags:
   - Teammanagement
   - Artistenkoordination
   - PR
+  - Logoentwicklung
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
@@ -28,8 +29,4 @@ _comments:
 ---
 
 
-&nbsp;
-
 ![](/uploads/versions/richtfest-hainspitze2---x46-0-932-659-1024-724x---.jpg)
-
-&nbsp;
