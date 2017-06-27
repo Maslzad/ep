@@ -28,6 +28,6 @@ _comments:
 
 &nbsp;
 
-![](http://via.placeholder.com/1024x724)
+![](/uploads/versions/kerry2---x0-6-1024-724-1024-724x---.jpg)
 
 ![](http://via.placeholder.com/1024x724)
