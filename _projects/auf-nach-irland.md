@@ -2,7 +2,7 @@
 layout: project
 title: Auf nach Irland
 subtitle:
-client:
+client: Crosspromotion Kerrygold
 image_path: 'http://via.placeholder.com/1024x724'
 thumbnail_path: 'http://via.placeholder.com/300x200'
 tags:
