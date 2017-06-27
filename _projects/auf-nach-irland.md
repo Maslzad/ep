@@ -30,4 +30,4 @@ _comments:
 
 ![](/uploads/versions/kerry2---x0-6-1024-724-1024-724x---.jpg)
 
-![](http://via.placeholder.com/1024x724)
+![](/uploads/versions/kerry3---x28-0-969-685-1024-724x---.jpg)
