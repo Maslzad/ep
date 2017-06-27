@@ -4,7 +4,7 @@ title: Marktforschung im großen Stil
 subtitle: 'Marktforschung und Strategie für einen Kunden kann schon umfangreich sein. Wenn die Aufgabe des Kunden aber auch die Tochterfirmen umfasst, ist dies auch für uns eine echte Herausforderung. Allerdings eine gern gesehene. In diesem Fall war also die Verzahnung der einzelnen Firmen ein wichtiger Aspekt, der nicht nur bei der Strategie- und CD-Entwicklung für Dometic Group, sondern auch für die Konzeptionen der einzelnen Firmenstrategien eine ausschlaggebende Rolle spielte.'
 client: Dometic
 image_path: /dometic1.jpg
-thumbnail_path:
+thumbnail_path: /dometic1.jpg
 tags:
   - Marktforschung
   - Strategie
