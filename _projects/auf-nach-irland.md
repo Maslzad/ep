@@ -6,9 +6,18 @@ client: Crosspromotion Kerrygold
 image_path: 'http://via.placeholder.com/1024x724'
 thumbnail_path: 'http://via.placeholder.com/300x200'
 tags:
+  - Ideenfindung
+  - strategische Konzeption
+  - Beratung
+  - Projektleitung
+  - Realisierung
   - Print
-  - Kampagne
-  - Full Service
+  - Kreation
+  - Text
+  - Social Media
+  - Microsites
+  - Betreuung der Gewinner während der kompletten Aktion
+  - Werbeerfolgskontrolle
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
