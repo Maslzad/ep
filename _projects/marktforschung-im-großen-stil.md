@@ -20,6 +20,6 @@ _comments:
 ---
 
 
-&nbsp;
+![](/uploads/versions/dometic2---x----1024-1312x---.jpg)
 
 ![](/uploads/versions/dometic3---x33-0-958-677-1024-724x---.jpg)
