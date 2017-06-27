@@ -22,4 +22,4 @@ _comments:
 
 &nbsp;
 
-![](http://via.placeholder.com/1024x724)
+![](/uploads/versions/dometic3---x33-0-958-677-1024-724x---.jpg)
