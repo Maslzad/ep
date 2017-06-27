@@ -21,3 +21,6 @@ _comments:
   image_path: 'Hauptbild des Projektes (Optimales Format: 16:9, max 1024px breite)'
   thumbnail_path: 'Kleineres Bild für Projekte-Übersicht (Optimales Format: 4:3, max 1024px breite)'
 ---
+
+
+![](/uploads/versions/businessday2---x----1024-815x---.jpg)
