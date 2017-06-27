@@ -23,4 +23,4 @@ _comments:
 ---
 
 
-![](/uploads/versions/plakat-mockup2-businesday-alternativ---x----1024-724x---.jpg)
+![](/uploads/versions/businessday2---x----1024-815x---.jpg)![](/uploads/versions/plakat-mockup2-businesday-alternativ---x----1024-724x---.jpg)
