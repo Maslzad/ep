@@ -32,4 +32,4 @@ _comments:
 
 ![](/uploads/versions/richtfest-hainspitze2---x46-0-932-659-1024-724x---.jpg)
 
-![](http://via.placeholder.com/1024x724)
+&nbsp;
