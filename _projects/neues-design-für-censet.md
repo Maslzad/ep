@@ -6,9 +6,12 @@ client: Censet
 image_path: /censet.jpg
 thumbnail_path: 'http://via.placeholder.com/300x200'
 tags:
-  - Print
-  - Kampagne
-  - Full Service
+  - Marktforschung
+  - strategische Konzeption
+  - grafische Visualisierung
+  - CD Entwicklung
+  - Beratung
+  - Projektleitung
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
