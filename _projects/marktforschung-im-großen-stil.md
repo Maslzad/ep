@@ -6,9 +6,12 @@ client: Dometic
 image_path: /dometic1.jpg
 thumbnail_path: /dometic2.jpg
 tags:
-  - Print
-  - Kampagne
-  - Full Service
+  - Marktforschung
+  - Strategie
+  - Kreation
+  - CD-Entwicklung
+  - Beratung
+  - Projektleitung
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
