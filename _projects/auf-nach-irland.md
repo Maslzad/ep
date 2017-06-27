@@ -26,7 +26,7 @@ _comments:
 ---
 
 
-&nbsp;
+![](/uploads/versions/kerry4---x----1024-367x---.jpg)
 
 ![](/uploads/versions/kerry2---x0-6-1024-724-1024-724x---.jpg)
 
