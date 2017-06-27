@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Auf nach Irland
-subtitle:
+subtitle: 'Wenn zwei Große sich zusammenschließen. Die Idee – eine Crosspromotion. Und ein geeigneter Partner wurde auch schnell gefunden. In enger Zusammenarbeit mit Kerrygold konzipierten wir für unseren Kunden caravaning-info.de eine Crosspromotion, die sowohl bundesweit, als auch in Österreich zum Einsatz kam. 11x gab es eine 14-tägige Caravan-Reise nach und in Irland zu gewinnen. Als OnPack wurden 30 Mio. Butter- und Käseverpackungen gebrandet, unterstützt von der Auslobung auf den Webseiten beider Unternehmen, diversen Social Media-Kanälen und dem Tourismusverband Irland. Die hohe Teilnahme und das rege Interesse ergaben nicht nur viel Content für den Aufbau und die Durchführung der Aktion, sondern auch genug Stoff, die Aktion in der Nachbereitung umfangreich zu kommunizieren.'
 client: Crosspromotion Kerrygold
 image_path: 'http://via.placeholder.com/1024x724'
 thumbnail_path: 'http://via.placeholder.com/300x200'
