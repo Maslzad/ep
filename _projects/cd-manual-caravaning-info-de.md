@@ -1,14 +1,16 @@
 ---
 layout: project
-title: CD Manual caravaning-info.de
-subtitle:
-client:
+title: Ein neues Logo gewünscht?
+subtitle: 'caravaning-info.de CD Manual Was tun, wenn dem Kunden sein bestehendes Logo nicht mehr gefällt? Mit Freude über die kreative Arbeit erst einmal einen genauen Blick auf den Markt werfen. Wie stellt sich der Wettbewerb dar, welche Bedürfnisse hat die Zielgruppe und ganz wichtig – wofür soll die Marke eigentlich stehen? Und dann geht’s los, die Kreativen toben sich aus, bestimmen Farben und Typos und die finale Version wird dann sauber in einem CD-Manual präsentiert, das erklärt wie das Logo zukünftig eingesetzt wird.'
+client: caravaning-info.de
 image_path: 'http://via.placeholder.com/1024x724'
 thumbnail_path: 'http://via.placeholder.com/300x200'
 tags:
-  - Print
-  - Kampagne
-  - Full Service
+  - strategische Konzeption
+  - grafische Visualisierung
+  - CD Entwicklung
+  - Beratung
+  - Projektleitung
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
