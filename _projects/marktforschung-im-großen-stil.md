@@ -2,7 +2,7 @@
 layout: project
 title: Marktforschung im großen Stil
 subtitle:
-client:
+client: Dometic
 image_path: 'http://via.placeholder.com/1024x724'
 thumbnail_path: 'http://via.placeholder.com/300x200'
 tags:
