@@ -3,16 +3,17 @@ layout: project
 title: Eine neue Messe für Köln
 subtitle: 'Eine Messe für kleine und mittelständische Unternehmen – das fehlte Köln. Aber sie sollte anders sein: Aussteller sollten nicht nur die Möglichkeit haben Ihre Produkte und/oder Dienstleistungen zu präsentieren, sie sollten, ebenso wie die Besucher, viel Zeit für den Austausch untereinander und für Workshops & Fachvorträge zu wechselnden Themen haben. Also, worauf warten, dachten wir uns. Und so wurde 2013 der Cologne Business Day ins Leben gerufen. Seitdem freuen wir uns jedes Jahr über stetig wachsende Aussteller- und Besucherzahlen.'
 client: Cologne Business Day
-image_path: /businessday1.jpg
-thumbnail_path: /businessday2.jpg
+image_path: /businessday2.jpg
+thumbnail_path: /businessday1.jpg
 tags:
-  - Entwicklung der Leitidee
+  - Entwicklung Leitidee
+  - Logoentwicklung
   - Beratung
   - Projektleitung
   - Messeplanung
-  - Akquise der Aussteller
-  - Redner und Referenten
-  - Gestaltung und Produktion aller Werbemittel
+  - Aussteller-Akquise
+  - 'Redner & Referenten'
+  - 'Gestaltung & Produktion Werbemittel'
   - PR
 _comments:
   layout: Bitte nicht verändern
