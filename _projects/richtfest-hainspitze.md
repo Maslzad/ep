@@ -2,13 +2,24 @@
 layout: project
 title: Richtfest Hainspitze
 subtitle:
-client:
+client: Centrum
 image_path: 'http://via.placeholder.com/1024x724'
 thumbnail_path: 'http://via.placeholder.com/300x200'
 tags:
+  - Idee
+  - Konzeption
+  - Beratung
+  - Projektleitung
+  - Grafik
   - Print
-  - Kampagne
-  - Full Service
+  - Online
+  - Offline
+  - Anmeldemanagement
+  - Aufbaukoordination und -überwachung
+  - Hotelmanagement
+  - Teammanagement
+  - Artistenkoordination
+  - PR
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
