@@ -6,9 +6,21 @@ client: caravaning-info.de
 image_path: 'http://via.placeholder.com/1024x576'
 thumbnail_path: 'http://via.placeholder.com/350x250'
 tags:
-  - Print
-  - Kampagne
-  - Full Service
+  - Konzeption
+  - strategische Entwicklung der Leitidee
+  - Beratung
+  - Projektleitung
+  - Fotoshooting
+  - Filme
+  - VKF
+  - POS
+  - Messe
+  - Gewinnspiele
+  - Web
+  - Media
+  - PR
+  - Advertorials
+  - Werbeerfolgskontrolle
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
