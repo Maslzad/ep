@@ -2,7 +2,7 @@
 layout: project
 title: Außenwerbung leicht gemacht
 subtitle:
-client:
+client: Landtagsabgeordnete Serap Güler
 image_path: 'http://via.placeholder.com/1024x576'
 thumbnail_path: 'http://via.placeholder.com/350x250'
 tags:
