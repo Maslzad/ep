@@ -4,7 +4,7 @@ title: Neues Design für Censet
 subtitle: 'CD Manual Censet - Manchmal muss einfach ein neues Markenkleid her. In diesem Fall wird weit über die Gestaltung und Einsatz eines Logos hinaus gearbeitet. Marktanalyse und Strategie sind hier als Basis ganz wichtig und vor allem ausgesprochen aussagekräftig, wie Logo, Farben, Schriftarten und eventuelle weitere grafische Elemente zukünftig verwendet werden. Stehen Strategie inkl. Kernaussage und Tonalität erst einmal fest, kann die grafische Entwicklung des Corporate Designs perfekt auf den Markenleib geschneidert werden.'
 client: Censet
 image_path: /uploads/CD_Manual_Censet_1024.jpg
-thumbnail_path:
+thumbnail_path: /uploads/CD_Manual_Censet_350.jpg
 tags:
   - Marktforschung
   - strategische Konzeption
