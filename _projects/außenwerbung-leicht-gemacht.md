@@ -3,7 +3,7 @@ layout: project
 title: Außenwerbung leicht gemacht
 subtitle: 'Planung und Umsetzung von Außenwerbung und Out-of-Home Medien, nach wie vor ein wichtiges Kommunikationsmittel, wird von uns immer wieder gerne in Kampagnen eingebunden. In diesem Fall unterstützten wir die Landtagsabgeordnete Serap Güler bei Ihrer Kandidatur für die Landtagswahl 2017. Schnell war das Motiv gestaltet, ein Motto gefunden, die passenden Stellen selektiert. Und so wurden die gewünschten Gebiete flächendeckend mit 18/1-Großflächen versehen.'
 client: Landtagsabgeordnete Serap Güler
-image_path: 'http://via.placeholder.com/1024x576'
+image_path: /Plakat_Mockup_CDU.jpg
 thumbnail_path: 'http://via.placeholder.com/350x250'
 tags:
   - Gestaltung
