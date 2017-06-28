@@ -29,6 +29,6 @@ _comments:
 ---
 
 
-![](http://via.placeholder.com/1024x724)
+![](/uploads/versions/cig2-4---x0-0-1024-724-1024-724x---.jpg)
 
-![](http://via.placeholder.com/1024x724)
+![](/uploads/versions/cig2-5---x112-0-799-565-1024-724x---.jpg)
