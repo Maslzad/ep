@@ -6,9 +6,12 @@ client: Landtagsabgeordnete Serap Güler
 image_path: 'http://via.placeholder.com/1024x576'
 thumbnail_path: 'http://via.placeholder.com/350x250'
 tags:
-  - Print
-  - Kampagne
-  - Full Service
+  - Gestaltung
+  - Beratung
+  - Projektleitung
+  - Mediaplanung
+  - Idee Slogan
+  - 'Idee & Produktion Give aways'
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
