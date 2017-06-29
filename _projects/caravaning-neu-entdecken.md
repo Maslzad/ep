@@ -31,7 +31,7 @@ _comments:
 
 &nbsp;
 
-<iframe width="100%" src="https://www.youtube.com/embed/CQpwqE1C2rA" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/CQpwqE1C2rA?rel=0" frameborder="0" allowfullscreen></iframe>
 
 &nbsp;
 
