@@ -470,6 +470,8 @@ h3.section-header { margin-bottom: 80px; text-align: center;}
 .icon-arrow-right { margin-left: 10px; background: url(../img/icons/arrow-right-blue.svg) no-repeat left top; background-size: 100%;} 
 .icon-arrow-left { margin-right: 10px; background: url(../img/icons/arrow-left-blue.svg) no-repeat left top; background-size: 100%;} 
 
+.embed-responsive { margin-top: 60px; margin-bottom: 60px;}
+
 .project-item { 
   position: relative; 
   display: block;
