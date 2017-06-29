@@ -26,17 +26,6 @@
   image_path: /uploads/jochen.jpg
   gif_path: /uploads/jochen.gif
   show: true
-- name: Iris Lück
-  position: 'Market Research & Strategic Marketing Manager'
-  description: 'Die, die immer (markt-)forscht. Unüberlegte Entscheidungen kennt sie nicht. Mit Kampagnen, Strategien und Konzepten setzt sie effizient und wirkungsstark am Kundenzahn der Zeit an.'
-  tags:
-    - TÜVRheinland
-    - viaprinto/CEWE
-    - FAIRRANK
-  wortpaar_path: /uploads/echt-punktgenau-pos.png
-  image_path: /uploads/iris.jpg
-  gif_path: /uploads/iris.gif
-  show: true
 - name: Carmen Weiß
   position: 'Senior Strategy & Content Manager / New Business'
   description: Die hinreißend Seltsame. Sprudelt über vor Berufserfahrung und Ideen. Entwickelt außergewöhnliche Kampagnen und Strategien. Lebt für kleine Projekte genauso wie für große Kampagnen.
@@ -50,6 +39,17 @@
   wortpaar_path: /uploads/erfrischend-plemplem-pos.png
   image_path: /uploads/carmen.jpg
   gif_path: /uploads/carmen.gif
+  show: true
+- name: Iris Lück
+  position: 'Market Research & Strategic Marketing Manager'
+  description: 'Die, die immer (markt-)forscht. Unüberlegte Entscheidungen kennt sie nicht. Mit Kampagnen, Strategien und Konzepten setzt sie effizient und wirkungsstark am Kundenzahn der Zeit an.'
+  tags:
+    - TÜVRheinland
+    - viaprinto/CEWE
+    - FAIRRANK
+  wortpaar_path: /uploads/echt-punktgenau-pos.png
+  image_path: /uploads/iris.jpg
+  gif_path: /uploads/iris.gif
   show: true
 - name: Jens Erbeck
   position: Art Director
