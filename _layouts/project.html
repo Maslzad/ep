@@ -5,7 +5,7 @@ layout: default
 ---
 <div class="section-hero projekt-detail">
   <div class="container">
-    <a href="#" onclick="window.history.back();"class="back-link"><i class="icon-arrow icon-arrow-small icon-arrow-left"></i>Zurück</a>
+    <a href="/projekte#projekte" class="back-link"><i class="icon-arrow icon-arrow-small icon-arrow-left"></i>Zurück</a>
     
     <h2>{{ page.title}}</h2>
     <p class="intro-txt">
@@ -29,6 +29,13 @@ layout: default
 
 <section class="projekte-content">
   <div class="container">
+    {%if page.youtube_id %}
+      <div class="row">
+        <div class="col-12 text-center">
+          <iframe width="560" height="315" style="margin: 0 auto;" src="https://www.youtube.com/embed/{{ page.youtube_id }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+      </div>
+    {% endif %}
     <div class="row">
       <div class="col-md-10">
         {{ content }}      

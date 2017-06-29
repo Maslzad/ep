@@ -28,8 +28,8 @@ _comments:
   thumbnail_path: 'Kleineres Bild für Projekte-Übersicht (Grösse: 350x250px)'
 ---
 
+<iframe width="560" height="315" style="margin: 0 auto;" src="https://www.youtube.com/embed/CQpwqE1C2rA" frameborder="0" allowfullscreen></iframe>
 
-[&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CQpwqE1C2rA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;](&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CQpwqE1C2rA&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;)
 
 ![](/uploads/versions/cig2-2---x----1024-724x---.jpg)![](/uploads/versions/cig2-4---x0-0-1024-724-1024-724x---.jpg)
 
