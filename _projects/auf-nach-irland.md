@@ -1,14 +1,13 @@
 ---
 layout: project
 title: Auf nach Irland
-subtitle: 'Wenn zwei Große sich zusammenschließen. Die Idee – eine Crosspromotion. Und ein geeigneter Partner wurde auch schnell gefunden. In enger Zusammenarbeit mit Kerrygold konzipierten wir für unseren Kunden caravaning-info.de eine Crosspromotion, die sowohl bundesweit, als auch in Österreich zum Einsatz kam. 11x gab es eine 14-tägige Caravan-Reise nach und in Irland zu gewinnen. Als OnPack wurden 30 Mio. Butter- und Käseverpackungen gebrandet, unterstützt von der Auslobung auf den Webseiten beider Unternehmen, diversen Social Media-Kanälen und dem Tourismusverband Irland. Die hohe Teilnahme und das rege Interesse ergaben nicht nur viel Content für den Aufbau und die Durchführung der Aktion, sondern auch genug Stoff, die Aktion in der Nachbereitung umfangreich zu kommunizieren.'
+subtitle: 'Wenn zwei Große sich zusammenschließen. Die Idee: eine Crosspromotion. Und ein geeigneter Partner wurde auch schnell gefunden. In enger Zusammenarbeit mit Kerrygold konzipierten wir für unseren Kunden caravaning-info.de eine Crosspromotion, die sowohl bundesweit-, als auch in Österreich zum Einsatz kam. 11 x gab es eine 14-tägige Caravan-Reise nach und in Irland zu gewinnen. Als OnPack wurden 30 Mio. Butter- und Käseverpackungen gebrandet, unterstützt von der Auslobung auf den Webseiten beider Unternehmen, diversen Social-Media-Kanälen und dem Tourismusverband Irland. Die hohe Teilnahme und das rege Interesse ergaben nicht nur viel Content für den Aufbau und die Durchführung der Aktion, sondern auch genug Stoff, um die Aktion in der Nachbereitung umfangreich zu kommunizieren.'
 client: Crosspromotion Kerrygold
-youtube_id: 
+youtube_id:
 image_path: /kerry1.jpg
 thumbnail_path: /kerry1.jpg
 tags:
   - Ideenfindung
-  - strategische Konzeption
   - Beratung
   - Projektleitung
   - Realisierung
@@ -19,6 +18,7 @@ tags:
   - Microsites
   - Betreuung der Gewinner während der kompletten Aktion
   - Werbeerfolgskontrolle
+  - strategische Konzeption
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
