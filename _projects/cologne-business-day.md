@@ -3,7 +3,7 @@ layout: project
 title: Eine neue Messe für Köln
 subtitle: 'Eine Messe für kleine und mittelständische Unternehmen – das fehlte Köln. Aber sie sollte anders sein: Aussteller sollten nicht nur die Möglichkeit haben Ihre Produkte und/oder Dienstleistungen zu präsentieren, sie sollten, ebenso wie die Besucher, viel Zeit für den Austausch untereinander und für Workshops & Fachvorträge zu wechselnden Themen haben. Also, worauf warten, dachten wir uns. Und so wurde 2013 der Cologne Business Day ins Leben gerufen. Seitdem freuen wir uns jedes Jahr über stetig wachsende Aussteller- und Besucherzahlen.'
 client: Cologne Business Day
-youtube_id: 
+youtube_id: Ir-q0f8uCuo
 image_path: /businessday1.jpg
 thumbnail_path: /uploads/businessday_Anhaenger_350.jpg
 tags:
