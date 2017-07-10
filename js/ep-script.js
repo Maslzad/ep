@@ -34,8 +34,9 @@ $(document).ready(function () {
           direction: 'vertical',
           pagination: '.swiper-pagination',//
 //           effect: 'cube',
+          paginationClickable: true,
           grabCursor: false,
-          autoplay: 10000,
+          // autoplay: 10000,
           keyboardControl: true,
           mousewheelControl: true,
           loop: true// ,
@@ -49,8 +50,9 @@ $(document).ready(function () {
             direction: 'vertical',
             pagination: '.swiper-pagination',//
             effect: 'cube',
+            paginationClickable: true,
             grabCursor: false,
-            autoplay: 10000,
+            // autoplay: 10000,
             keyboardControl: true,
             mousewheelControl: true,
             loop: true,

@@ -290,6 +290,16 @@ body.canvas-slid .navbar-toggle .bottom-bar {
   text-align: left;
 }
 
+.ep-hero-content a {
+  text-decoration: none;
+  color: #222;
+  border-bottom: 2px solid #fff; 
+}
+.ep-hero-content a:hover {
+  color: white !important;
+  border-color: transparent;
+}
+
 span.tag {
   font-size: 16px;
   padding: 2px 6px;
@@ -303,15 +313,32 @@ span.tag {
 
 
 .swiper-pagination-bullet {
-  width: 24px;
+  display: inline-block;
+  height: 26px;
+  width: 26px;
+  background: none;
+  position: relative;
+  opacity: 1;
+  cursor: pointer;
+  margin: 2px 0;
+}
+
+.swiper-pagination-bullet:after {
+  content: '';
+  position: absolute;
+  top: 7px;
+  right: 0;
+  display: block;
   height: 2px;
+  width: 26px;
   background-color: white;
   opacity:0.3;
-  -webkit-border-radius: 0px;
-  -moz-border-radius: 0px;
-  border-radius: 0px;
-  margin: 24px 0 !important;
 }
+
+.swiper-pagination-bullet-active:after {
+  opacity: 1;
+}
+
 .swiper-slide {
     overflow: hidden;
 }
