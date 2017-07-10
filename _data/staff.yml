@@ -95,10 +95,10 @@
     - DocMorris
     - NetCologne
     - Barilla
-  wortpaar_path:
-  image_path: 'http://via.placeholder.com/380x490'
-  gif_path:
-  show: false
+  wortpaar_path: /uploads/entspannt-pragmatisch-pos.png
+  image_path: /uploads/veronika.jpg
+  gif_path: /uploads/veronika.gif
+  show: true
 - name: Wsewolod Rawdin
   position: Praktikant
   description: 'Der gutmütige Ruhepol. Praktikant mit Ambitionen. Begeisterter Teamplayer, vielseitig interessiert, wissbegierig. Blickt über den Tellerrand. Kommunikations-Allrounder.'
