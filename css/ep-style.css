@@ -229,81 +229,49 @@ body.canvas-slid .navbar-toggle .bottom-bar {
   transform-origin: 10% 90%;
 }
 
+
 .swiper-container {
   width: 100%;
-  height: 100%;
+  height: 100vh;
 }
 .swiper-slide {
-    text-align: center;
-    font-size: 18px;
-    box-sizing: border-box;
-}
-
-/*.services-wrapper .service-item {
-  background: #ffffff;
-  border: 4px solid #A8A8A8;
-  display: table;
-  position: relative;
-  height: 100%;
-  width: 100%;
-  text-align: center;
-  /*display: table;
   display: -webkit-box;
-  display: -webkit-flex;
   display: -ms-flexbox;
+  display: -webkit-flex;
   display: flex;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
   -ms-flex-pack: center;
+  -webkit-justify-content: center;
   justify-content: center;
   -webkit-box-align: center;
-  -webkit-align-items: center;
   -ms-flex-align: center;
+  -webkit-align-items: center;
   align-items: center;
-  font-size: 26px;
-  text-transform: uppercase;
-  height: 260px;
-  margin-bottom: 20px;
 }
-.services-wrapper .service-item .link-text {
-  display: table-cell;
-  vertical-align: middle;
-}*/
 
 
-.ep-hero {
-  display:table;
-  width:100%;
-  height:100vh;
-/*  height: 100vh;*/
-/*  background-image: url('../img/ep-icon-end-negativ.svg');
-  background-position: 50% 50%;
-  background-size: 540px;
-  background-repeat: no-repeat;*/
-}
 
 .ep-hero-content {
-  display:table-cell;
-  vertical-align:middle;
-  text-align: center;
-  
-}
-.ep-hero-content-wrapper {
-  margin-left:auto;
-  margin-right:auto;
-  height:336px;
   text-align: left;
-  display: inline-block;
+  padding: 0 15px;
+  max-width: 100%;
+  margin: auto;
+  transform-style: preserve-3d;
 }
 
-.ep-hero-content a {
+.swiper-slide .ep-hero-content span {
   text-decoration: none;
   color: #222;
   border-bottom: 2px solid #fff; 
 }
-.ep-hero-content a:hover {
+
+.swiper-slide > a { border-bottom: 2px solid transparent;}
+
+.swiper-slide > a:hover,
+.swiper-slide > a:hover h1 span {
   color: white !important;
   border-color: transparent;
+  cursor: pointer !important;
 }
 
 span.tag {
@@ -311,11 +279,6 @@ span.tag {
   padding: 2px 6px;
   background-color: #F2F2F2;
 }
-
-/*.ep-hero.agentur { background-image: url('../img/start-icon-agentur.svg');}
-.ep-hero.leistungen { background-image: url('../img/start-icon-leistungen.svg');}
-.ep-hero.projekte { background-image: url('../img/start-icon-projekte.svg');}
-.ep-hero.kontakt { background-image: url('../img/start-icon-kontakt.svg');}*/
 
 
 .swiper-pagination-bullet {
@@ -330,7 +293,7 @@ span.tag {
 }
 
 .swiper-pagination-bullet:after {
-  content: '';
+  content: ' ';
   position: absolute;
   top: 7px;
   right: 0;
@@ -338,7 +301,12 @@ span.tag {
   height: 2px;
   width: 26px;
   background-color: white;
-  opacity:0.3;
+  opacity: 0.3;
+  
+}
+
+.navbar.navbar-brand.navbar-fixed-top.disable-animations.in.canvas-slid {
+  transition: none !important;
 }
 
 .swiper-pagination-bullet-active:after {
@@ -620,12 +588,6 @@ label { display: none;}
     background: none;
     border: none;
   }
-}
-
-.disable-animations *,
-.disable-animations *:after,
-.disable-animations *:before {
-    transition: none !important;
 }
 
 

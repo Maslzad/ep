@@ -52,7 +52,9 @@ $(document).ready(function () {
             effect: 'cube',
             paginationClickable: true,
             grabCursor: false,
-            autoplay: 10000,
+            // autoplay: 10000,
+            preventClicks: false,
+            preventClicksPropagation: false,
             keyboardControl: true,
             mousewheelControl: true,
             loop: true,
@@ -90,7 +92,8 @@ $(document).ready(function () {
     });
       
   $('.navbar').offcanvas({
-    disableScrolling: false
+    disableScrolling: false,
+    canvas: true
   })    
           
   });
