@@ -52,7 +52,7 @@ $(document).ready(function () {
             effect: 'cube',
             paginationClickable: true,
             grabCursor: false,
-            // autoplay: 10000,
+            autoplay: 10000,
             // keyboardControl: true,
             mousewheelControl: true,
             loop: true,
@@ -63,9 +63,6 @@ $(document).ready(function () {
         });
     }
     
-    $(".swiper-slide").hover(function(){
-      $(this).find(".swiper-slide > a").hover();
-    });
     
   var team_swiper = new Swiper('.team-swiper-container', {
     pagination: '.swiper-pagination',

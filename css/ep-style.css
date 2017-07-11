@@ -233,6 +233,7 @@ body.canvas-slid .navbar-toggle .bottom-bar {
 .swiper-container {
   width: 100%;
   height: 100vh;
+  background: black;
   background-color: #db081a;
 }
 .swiper-slide {
@@ -248,7 +249,7 @@ body.canvas-slid .navbar-toggle .bottom-bar {
   -ms-flex-align: center;
   -webkit-align-items: center;
   align-items: center;
-  
+  padding-right: 30px;
 }
 
 
