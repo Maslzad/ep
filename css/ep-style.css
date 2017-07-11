@@ -233,6 +233,7 @@ body.canvas-slid .navbar-toggle .bottom-bar {
 .swiper-container {
   width: 100%;
   height: 100vh;
+  background-color: #db081a;
 }
 .swiper-slide {
   display: -webkit-box;
@@ -247,6 +248,7 @@ body.canvas-slid .navbar-toggle .bottom-bar {
   -ms-flex-align: center;
   -webkit-align-items: center;
   align-items: center;
+  
 }
 
 
@@ -265,10 +267,10 @@ body.canvas-slid .navbar-toggle .bottom-bar {
   border-bottom: 2px solid #fff; 
 }
 
-.swiper-slide > a { border-bottom: 2px solid transparent;}
+.swiper-slide > a { border-bottom: 2px solid transparent; display: block; height: 100vh;}
 
-.swiper-slide > a:hover,
-.swiper-slide > a:hover h1 span {
+.swiper-slide:hover,
+.swiper-slide:hover h1 span {
   color: white !important;
   border-color: transparent;
   cursor: pointer !important;

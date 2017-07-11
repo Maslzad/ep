@@ -52,10 +52,8 @@ $(document).ready(function () {
             effect: 'cube',
             paginationClickable: true,
             grabCursor: false,
-            autoplay: 10000,
-            preventClicks: false,
-            preventClicksPropagation: false,
-            keyboardControl: true,
+            // autoplay: 10000,
+            // keyboardControl: true,
             mousewheelControl: true,
             loop: true,
             cube: {
@@ -64,7 +62,11 @@ $(document).ready(function () {
             }
         });
     }
-  
+    
+    $(".swiper-slide").hover(function(){
+      $(this).find(".swiper-slide > a").hover();
+    });
+    
   var team_swiper = new Swiper('.team-swiper-container', {
     pagination: '.swiper-pagination',
     slidesPerView: 3,
