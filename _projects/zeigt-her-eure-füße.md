@@ -7,15 +7,8 @@ image_path: /gebruedergoetz_1024.jpg
 thumbnail_path: /gebruedergoetz_350.jpg
 youtube_id: 7yLTWxzMPBo
 tags:
-  - strategische Konzeption
-  - Leitidee
-  - Beratung
-  - Projektleitung
-  - Locationscouting
   - Modelcasting
-  - Storyboard
-  - Musikauswahl
-  - Filmproduktion inkl. Postproduktion
+  - Filmproduktionsassistenz
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
