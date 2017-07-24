@@ -231,12 +231,21 @@ body.canvas-slid .navbar-toggle .bottom-bar {
 
 
 .swiper-container {
-  width: 100%;
+/*  width: 100%;*/
   height: 100vh;
   background-color: black;
-  
 }
+.swiper-wrapper {
+}
+
+
+/*display: -webkit-flex;
+  display: -ms-flex;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;*/
 .swiper-slide {
+  display: -webkit-flex;
   display: -webkit-box;
   display: -ms-flexbox;
   display: -webkit-flex;
@@ -250,7 +259,7 @@ body.canvas-slid .navbar-toggle .bottom-bar {
   -webkit-align-items: center;
   align-items: center;
   padding-right: 30px;
-  background-color: #db081a;
+/*  background-color: #db081a;*/
 }
 
 
@@ -261,6 +270,7 @@ body.canvas-slid .navbar-toggle .bottom-bar {
   max-width: 100%;
   margin: auto;
   transform-style: preserve-3d;
+  
 }
 
 .swiper-slide .ep-hero-content span {
@@ -269,14 +279,14 @@ body.canvas-slid .navbar-toggle .bottom-bar {
   border-bottom: 2px solid #fff; 
 }
 
-.swiper-slide > a { border-bottom: 2px solid transparent; display: block; }
+/*.swiper-slide a:link,
+.swiper-slide a:visited { border-bottom: 2px solid white;}
 
-.swiper-slide:hover a,
-.swiper-slide:hover h1 span {
+.swiper-slide a:hover {
   color: white !important;
   border-color: transparent;
   cursor: pointer !important;
-}
+}*/
 
 span.tag {
   font-size: 16px;
@@ -306,8 +316,25 @@ span.tag {
   width: 26px;
   background-color: white;
   opacity: 0.3;
-  
+
 }
+
+/* FIXES SAFARI */
+.swiper-pagination-clickable .swiper-pagination-bullet {
+  cursor: pointer;
+}
+
+.swiper-container-vertical > .swiper-pagination {
+  right: 10px;
+  top: 50%;
+  -moz-transform: translate3d(0px, -50%, 1px);
+  -webkit-transform: translate3d(0px, -50%, 1px);
+  transform: translate3d(0px, -50%, 1px);
+}
+
+
+
+/* ENDE FIXES SAFARI */
 
 .navbar.navbar-brand.navbar-fixed-top.disable-animations.in.canvas-slid {
   transition: none !important;

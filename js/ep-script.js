@@ -51,14 +51,14 @@ $(document).ready(function () {
             pagination: '.swiper-pagination',//
             effect: 'cube',
             paginationClickable: true,
-            grabCursor: false,
-            autoplay: 10000,
-            // keyboardControl: true,
+            grabCursor: false,// ,
+//             autoplay: 10000,
+            keyboardControl: true,
             mousewheelControl: true,
             loop: true,
             cube: {
-            shadow: false,
-            slideShadows: false
+              shadow: false,
+              slideShadows: false
             }
         });
     }
