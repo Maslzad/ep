@@ -51,8 +51,8 @@ $(document).ready(function () {
             pagination: '.swiper-pagination',//
             effect: 'cube',
             paginationClickable: true,
-            grabCursor: false,// ,
-//             autoplay: 10000,
+            grabCursor: false,
+            autoplay: 10000,
             keyboardControl: true,
             mousewheelControl: true,
             loop: true,
