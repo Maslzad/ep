@@ -270,7 +270,6 @@ body.canvas-slid .navbar-toggle .bottom-bar {
   max-width: 100%;
   margin: auto;
   transform-style: preserve-3d;
-  
 }
 
 .swiper-slide .ep-hero-content span {
@@ -619,6 +618,12 @@ label { display: none;}
     background: none;
     border: none;
   }
+  
+  .ep-hero-content {
+    padding: 60px 200px;
+
+  }
+  
 }
 
 
