@@ -43,4 +43,4 @@ _comments:
 
 ![](/uploads/versions/film-storyboard-1024x724---x0-0-1024-724-1024-724x---.jpg)
 
-![](http://via.placeholder.com/1024x724)
+&nbsp;
