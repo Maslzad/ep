@@ -27,7 +27,7 @@ _comments:
 ---
 
 
-&nbsp;
+![](/uploads/versions/cdu-foldermitstift-1024---x----1024-600x---.jpg)
 
 ![](/uploads/versions/cdu-moering-181tel-1024---x70-0-849-600-1024-724x---.jpg)
 
