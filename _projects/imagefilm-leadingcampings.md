@@ -1,15 +1,20 @@
 ---
 layout: project
 title: Imagefilm LeadingCampings
-subtitle:
-client:
-image_path: 'http://via.placeholder.com/1024x576'
-thumbnail_path: 'http://via.placeholder.com/350x250'
-youtube_id:
+subtitle: >-
+  DER Film musste her – und das möglichst schnell. Ein Imagefilm für den
+  flexiblen Einsatz wie z.B. Webauftritt, Messe u.v.m.. Also wurde das
+  vorhandene Filmmaterial des Kunden gesichtet, selektiert, sortiert, neu
+  zusammengeschnitten und vertont.
+client: LeadingCampings
+image_path: /LeadingCampings_1024.jpg
+thumbnail_path: /LeadingCampings_350.jpg
+youtube_id: dVm0LCTZqQc
 tags:
-  - Print
-  - Kampagne
-  - Full Service
+  - Beratung
+  - Projektleitung
+  - Schnitt
+  - Ton
 _comments:
   layout: Bitte nicht verändern
   title: Überschrift
@@ -18,8 +23,3 @@ _comments:
 ---
 
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-
-![](http://via.placeholder.com/1024x724)
-
-![](http://via.placeholder.com/1024x724)
