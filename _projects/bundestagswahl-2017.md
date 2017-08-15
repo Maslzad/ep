@@ -31,4 +31,4 @@ _comments:
 
 ![](/uploads/versions/cdu-moering-181tel-1024---x70-0-849-600-1024-724x---.jpg)
 
-![](http://via.placeholder.com/1024x724)
+&nbsp;
