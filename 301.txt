@@ -1,1 +1,2 @@
 /de/referenzen/ /projekte
+/test/ http://www.bohlen-design.de
