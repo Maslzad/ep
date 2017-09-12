@@ -26,13 +26,13 @@ img { max-width: 100%; height: auto;}
 
 /*Basic Styles*/
 
-h1,h2,h3,h4 {
+h1,h2,h3,h4,.h1,.h2,.h3,.h4 {
   font-family: "futura-pt",sans-serif;
   text-transform: uppercase;
   color: #222222;
 }
 
-h2 { font-size: 38px; line-height: 130%; font-weight: 500;}
+h2,.h2 { font-size: 38px; line-height: 130%; font-weight: 500;}
 
 a,
 a:link,
