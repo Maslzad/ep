@@ -16,7 +16,7 @@
   wortpaar_path: /uploads/ehrlich-passioniert-pos.png
   image_path: /uploads/emi.jpg
   gif_path: /uploads/emi.gif
-  show: false
+  show: true
 - name: Jochem Wahl
   position: Creative Director
   description: >-
@@ -27,7 +27,7 @@
   wortpaar_path: /uploads/einfallsreich-pragmatisch-pos.png
   image_path: /uploads/jochen.jpg
   gif_path: /uploads/jochen.gif
-  show: true
+  show: false
 - name: Carmen Weiß
   position: Senior Strategy & Content Manager / New Business
   description: >-
