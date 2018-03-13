@@ -28,17 +28,6 @@
   image_path: /uploads/jochen.jpg
   gif_path: /uploads/jochen.gif
   show: false
-- name: Carmen Weiß
-  position: Senior Strategy & Content Manager / New Business
-  description: >-
-    Die hinreißend Seltsame. Sprudelt über vor Berufserfahrung und Ideen.
-    Entwickelt außergewöhnliche Kampagnen und Strategien. Lebt für kleine
-    Projekte genauso wie für große Kampagnen.
-  tags:
-  wortpaar_path: /uploads/erfrischend-plemplem-pos.png
-  image_path: /uploads/carmen.jpg
-  gif_path: /uploads/carmen.gif
-  show: true
 - name: Iris Lück
   position: Market Research & Strategic Marketing Manager
   description: >-
