@@ -1,14 +1,17 @@
 ---
 layout: first_stage
-body_class: "kontakt"
-wortpaar: "einfach-persoenlich"
+body_class: kontakt
+wortpaar: einfach-persoenlich
 title: Kontakt – wir freuen uns auf Sie!
 description: Lernen Sie uns doch persönlich kennen!
 hero_image_path: kontakt-hero-image.jpg
-intro_text: '<p>Wenn aus unpersönlich persönlich wird: Wir versprechen Ihnen ein unvergessliches Kennenlernen.</p><p>Rufen Sie uns an oder kommen Sie vorbei.</p>'
+intro_text: >-
+  <p>Wenn aus unpersönlich persönlich wird: Wir versprechen Ihnen ein
+  unvergessliches Kennenlernen.</p><p>Rufen Sie uns an - 0221 96989590 oder
+  schreiben Sie eine Mail an info@ep-communication.de.</p>
 ---
 
-        <style type="text/css">
+<style type="text/css">
             /* Set a size for our map container, the Google Map will take up 100% of this container */
             #map {
                 width: 100%;
@@ -116,27 +119,27 @@ intro_text: '<p>Wenn aus unpersönlich persönlich wird: Wir versprechen Ihnen e
       
       <div class="col-md-4 offset-md-2">
         <div class="ep-logo">
-          <img src="/img/logo-ep-pos.svg">
+          <img src="/img/logo-ep-pos.svg" />
         </div>
         <div class="contact-details">
           <p class="adress">
-            {{ site.data.settings.company_name}}<br>
-            {{ site.data.settings.adress }}<br>
+            {{ site.data.settings.company_name}}<br />
+            {{ site.data.settings.adress }}<br />
             {{ site.data.settings.plz}}
           </p>
           <p class="tel">
-            T <a href="tel:{{ site.data.settings.tel}}" >{{ site.data.settings.tel}}</a><br>
-            F <span >{{ site.data.settings.fax}}</span><br>
+            T <a href="tel:{{ site.data.settings.tel}}">{{ site.data.settings.tel}}</a><br />
+            F <span>{{ site.data.settings.fax}}</span><br />
             <a href="mailto:{{site.data.settings.contact_email}}">{{site.data.settings.contact_email}}</a>
           </p>
           <p class="editable">
-            CEO {{ site.data.settings.ceo }}<br>
-            Amtsgericht {{ site.data.settings.amtsgericht}}<br>
+            CEO {{ site.data.settings.ceo }}<br />
+            Amtsgericht {{ site.data.settings.amtsgericht}}<br />
             USt-Nr {{ site.data.settings.ust_id}}
           </p>
           <p>
             <a href="https://www.google.de/maps/place/ep+communication+GmbH/@50.9054723,6.975331,20z/data=!4m5!3m4!1s0x47bf24eedf37498d:0xce0782f2ef3a7e04!8m2!3d50.9054723!4d6.9756046" target="_blank">Route bei Google Maps</a>
-        </div>
+        </p></div>
         
       </div>
     </div>
@@ -149,7 +152,7 @@ intro_text: '<p>Wenn aus unpersönlich persönlich wird: Wir versprechen Ihnen e
 <section id="jumper-section" class="content-section">
   <div class="container">
     <h2 class="section-header editable">Oder lernen Sie uns weiter kennen</h2>
-    <div class="arrow-divider text-center"><img src="../img/icons/arrow-down-blue.svg"></div>
+    <div class="arrow-divider text-center"><img src="../img/icons/arrow-down-blue.svg" /></div>
     <div class="row">
       
       {% include jumper-item.html link_title="Die Agentur" link_path="/agentur" img_path="/img/wortpaare/eindrucksvoll-punkt-neg.svg" %}
