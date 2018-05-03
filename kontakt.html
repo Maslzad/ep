@@ -83,37 +83,7 @@ intro_text: >-
     </div>
     <div class="row">
       <div class="col-md-6">
-        <form name="sentMessage" id="contactForm" action="{{contents.messages.public_submission_url}}" novalidate method="post">
-          <div class="row control-group">
-            <div class="form-group col-12 floating-label-form-group controls">
-                  <label for="name" data-i18n="form_label_name">Name</label>
-                  <input type="text" class="form-control" name="content[name]" placeholder="Verraten Sie uns Ihren Namen?" id="name" required data-validation-required-message="Bitte geben Sie Ihren Namen ein" />
-                  <p class="help-block text-danger"></p>
-              </div>
-          </div>
-          <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                  <label for="email" data-i18n="form_label_email">Ihre E-Mail-Adresse</label>
-                  <input type="email" name="content[email]" class="form-control" placeholder="Wie erreichen wir Sie? E-Mail, Telefon?" id="email" required data-validation-required-message="Bitte geben Sie eine gültige E-Mail-Adresse ." />
-                  <p class="help-block text-danger"></p>
-              </div>
-          </div>
-          <div class="row control-group">
-              <div class="form-group col-12 floating-label-form-group controls">
-                  <label data-i18n="form_label_message">Nachricht</label>
-                  <textarea rows="5" name="content[message]" class="form-control" placeholder="Was können wir für Sie tun? " id="message" required data-validation-required-message="Bitte teilen Sie uns Ihr Anliegen mit."></textarea>
-                  <p class="help-block text-danger"></p>
-              </div>
-          </div>
-          <input type="hidden" name="_to" value="{{ site.data.settings.contact_email }}" />
-          <input type="hidden" name="_subject" value="Anfrage über Website" />
-          <input type="text" name="_gotcha" style="display: none;" />
-          <div class="row">
-              <div class="form-group col-12">
-                  <button type="submit" class="btn btn-default btn-block" data-i18n="form_submit">Abschicken</button>
-              </div>
-          </div>
-        </form>
+        <a href="mailto:{{site.data.settings.contact_email}}" target="_blank" class="btn btn-default">Kontakt per E-Mail</a>
       </div>
       
       

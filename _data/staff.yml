@@ -93,3 +93,12 @@
   image_path: /uploads/sewa.jpg
   gif_path: /uploads/sewa.gif
   show: true
+- name: Michael Vetter
+  position: Kommunikations- und Rhetoriktrainer
+  description: >-
+    Rheinische Frohnatur mit Hingabe zu zielorientierter, klarer und unmissverständlicher Kommunikation. Motivator, Coach, Moderator. Hinhören statt Zuhören. Findet immer eine Lösung. Und zwar eine Gute.
+  tags:
+  wortpaar_path: /uploads/extrem-praesent-pos.png
+  image_path: /uploads/michael-v.jpg
+  gif_path: /uploads/michael-v.gif
+  show: true
