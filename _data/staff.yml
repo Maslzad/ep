@@ -71,7 +71,7 @@
   wortpaar_path: /uploads/entsetzlich-proaktiv-pos.png
   image_path: /uploads/michael.jpg
   gif_path: /uploads/michael.gif
-  show: true
+  show: false
 - name: Sophia Bolland
   position: Event & PR Manager
   description: >-
@@ -96,7 +96,9 @@
 - name: Michael Vetter
   position: Kommunikations- und Rhetoriktrainer
   description: >-
-    Rheinische Frohnatur mit Hingabe zu zielorientierter, klarer und unmissverständlicher Kommunikation. Motivator, Coach, Moderator. Hinhören statt Zuhören. Findet immer eine Lösung. Und zwar eine Gute.
+    Rheinische Frohnatur mit Hingabe zu zielorientierter, klarer und
+    unmissverständlicher Kommunikation. Motivator, Coach, Moderator. Hinhören
+    statt Zuhören. Findet immer eine Lösung. Und zwar eine Gute.
   tags:
   wortpaar_path: /uploads/extrem-praesent-pos.png
   image_path: /uploads/michael-v.jpg
