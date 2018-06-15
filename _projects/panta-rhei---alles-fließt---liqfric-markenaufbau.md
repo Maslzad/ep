@@ -1,10 +1,10 @@
 ---
 layout: project
-title: Panta rhei - Alles fließt! - LIQFRIC-Markenaufbau
+title: Panta rhei - Alles fließt! LIQFRIC-Markenaufbau
 subtitle:
-client:
-image_path: 'http://via.placeholder.com/1024x576'
-thumbnail_path: 'http://via.placeholder.com/350x250'
+client: LF GmbH & Co. KG
+image_path: /uploads/hauptanzeigebild-1024x576.jpg
+thumbnail_path: /uploads/titelbild-350x250.jpg
 youtube_id:
 tags:
   - Print
@@ -17,9 +17,8 @@ _comments:
   thumbnail_path: 'Kleineres Bild für Projekte-Übersicht (Grösse: 350x250px)'
 ---
 
+Liqfric - ein Start-up, das sich mit innovativen Reibsystemen den Markt erobert. Hier wurde, in enger Zusammenarbeit mit dem Kunden, ein Corporate Design, inkl. Namensfindung, erstellt und f&uuml;r alle entsprechenden Mittel im Bereich der Gesch&auml;ftsausstattung adaptiert. Ebenso wurde die Idee f&uuml;r alle Imagebilder konzipiert und ein innovatives Shooting durchgef&uuml;hrt, bei dem in einem Becken Wellengang erzeugt- und diesen dann in verschiedenen Varianten abgelichtet hat. Im zweiten Step konnte der ben&ouml;tige Webauftritt, in deutscher und englischer Sprache realisiert werden.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+![](/uploads/bild-03-1024x724.jpg)
 
-![](http://via.placeholder.com/1024x724)
-
-![](http://via.placeholder.com/1024x724)
+![](/uploads/bild-02-1024x724-1.jpg)
