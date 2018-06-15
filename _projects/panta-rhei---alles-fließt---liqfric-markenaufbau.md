@@ -2,14 +2,14 @@
 layout: project
 title: Panta rhei - Alles fließt! LIQFRIC-Markenaufbau
 subtitle: >-
-  Liqfric - ein Start-up, das sich mit innovativen Reibsystemen den Markt
-  erobert. Hier wurde, in enger Zusammenarbeit mit dem Kunden, ein Corporate
-  Design, inkl. Namensfindung, erstellt und für alle entsprechenden Mittel im
-  Bereich der Geschäftsausstattung adaptiert. Ebenso wurde die Idee für alle
-  Imagebilder konzipiert und ein innovatives Shooting durchgeführt, bei dem in
-  einem Becken Wellengang erzeugt- und diesen dann in verschiedenen Varianten
-  abgelichtet hat. Im zweiten Step konnte der benötige Webauftritt, in deutscher
-  und englischer Sprache realisiert werden.
+  Liqfric - ein Start-up, das mit innovativen Reibsystemen den Markt erobert.
+  Hier wurde, in enger Zusammenarbeit mit dem Kunden, ein Corporate Design,
+  inkl. Namensfindung, erstellt und für alle entsprechenden Mittel im Bereich
+  der Geschäftsausstattung adaptiert. Ebenso wurde die Idee für alle Imagebilder
+  konzipiert und ein innovatives Shooting durchgeführt, bei dem in einem Becken
+  Wellengang erzeugt- und diesen dann in verschiedenen Varianten abgelichtet
+  hat. Im zweiten Step konnte der benötige Webauftritt, in deutscher und
+  englischer Sprache realisiert werden.
 client: LF GmbH & Co. KG
 image_path: /uploads/hauptanzeigebild-1024x576.jpg
 thumbnail_path: /uploads/titelbild-350x250.jpg
