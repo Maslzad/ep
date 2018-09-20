@@ -387,6 +387,15 @@ span.tag {
   height: 100%;
 }
 
+.mit-preis img {
+  width: 90px;
+  position: absolute; 
+  left: 60px; 
+  bottom: 60px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .section-hero {
   min-height: 100vh;
   background-position: 50% 50%;
@@ -598,6 +607,10 @@ label { display: none;}
     text-align: center;
     max-width: 350px;
     margin: 0 auto;}
+    
+   .mit-preis img {
+     width: 90px;
+   }
 }
 
 
@@ -606,6 +619,7 @@ label { display: none;}
   .navbar-toggle {
     display: block; /* force showing the toggle */
   }
+
 }
 
 
@@ -632,6 +646,14 @@ label { display: none;}
 @media (max-width: 576px) {
     nav > .container {
         width: 100%;
+    }
+    .mit-preis img {
+      left: 0;
+      right: 0;
+      bottom: 20px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50px;
     }
     .swiper-pagination { display: none;}
 }

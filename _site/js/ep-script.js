@@ -52,7 +52,7 @@ $(document).ready(function () {
             effect: 'cube',
             paginationClickable: true,
             grabCursor: false,
-            autoplay: 10000,
+            autoplay: false,
             keyboardControl: true,
             mousewheelControl: true,
             loop: true,
