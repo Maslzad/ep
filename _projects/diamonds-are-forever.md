@@ -27,4 +27,4 @@ Wir unterst&uuml;tzen unseren Kunden derzeit vor allem im Marketing-Bereich: Ins
 
 ![](/uploads/zendiamondde-instagram-collage-1024x724.jpg)
 
-![](http://via.placeholder.com/1024x724)
+&nbsp;
