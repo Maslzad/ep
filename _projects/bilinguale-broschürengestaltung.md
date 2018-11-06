@@ -25,6 +25,6 @@ _comments:
 
 Beim Verband der islamischen Kulturzentren e.V. handelt es sich um einen gemeinn&uuml;tzigen Verein mit dem Ziel, muslimische und vor allem t&uuml;rkische Gastarbeiter in Deutschland zu betreuen. Im Rahmen einer neuen Verbandszentrale haben wir als Agentur eine zweisprachige (deutsch/t&uuml;rkische) Informationsbrosch&uuml;re konzipiert und entwickelt, welche &uuml;ber die Neuerungen informiert. Dabei haben wir nicht nur die Strategie und das Konzept entwickelt, sondern auch eine Leitidee formuliert, das Layout sowie Texte und &Uuml;bersetzungen geliefert. Neben dem Lektorat lagen auch die Reinzeichnungen sowie der Druck in unserer Verantwortung.
 
-![](/VIKZ_Bild_1024x724_2.jpg)
+![](/uploads/vikz-broschüre-1024x724-2.jpg)
 
 ![](/uploads/vikz-bild-1024x724-3.jpg)
