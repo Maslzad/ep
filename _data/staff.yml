@@ -83,16 +83,6 @@
   image_path: /uploads/sophia-2.jpg
   gif_path: /uploads/sophia-2.gif
   show: true
-- name: Wsewolod Rawdin
-  position: Marketing & Event Manager
-  description: >-
-    Der gutmütige Ruhepol. Begeisterter Teamplayer, vielseitig interessiert,
-    wissbegierig. Blickt über den Tellerrand. Kommunikations-Allrounder.
-  tags:
-  wortpaar_path: /uploads/endlos-positiv-pos.png
-  image_path: /uploads/sewa.jpg
-  gif_path: /uploads/sewa.gif
-  show: true
 - name: Michael Vetter
   position: Kommunikations- und Rhetoriktrainer
   description: >-
