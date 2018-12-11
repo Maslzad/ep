@@ -7,7 +7,11 @@ subtitle: >-
 client: 'Ministerium für Kinder, Familie, Flüchtlinge und Integration des Landes NRW'
 image_path: /uploads/img-2289-4.jpg
 thumbnail_path: /uploads/img-2289-5.jpg
-youtube_id: 'https://youtu.be/RICmlCRXfww'
+youtube_id: >-
+  <iframe width="1280" height="720"
+  src="https://www.youtube.com/embed/RICmlCRXfww" frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 tags:
   - Kampagne
   - Full Service
