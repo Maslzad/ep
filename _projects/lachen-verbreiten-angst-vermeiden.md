@@ -1,10 +1,12 @@
 ---
 layout: project
-title: 'Lachen verbreiten, Angst vermeiden'
-subtitle:
-client:
-image_path: /uploads/img-2289-3.jpg
-thumbnail_path: /uploads/img-2289-2.jpg
+title: '1:0 für Integration'
+subtitle: >-
+  Integration durch Fußball mit Integrationsminister Joachim Stamp,
+  Fußballtrainerin Tuğba Tekkal und Ex-Nationalspieler Thomas Allofs
+client: 'Ministerium für Kinder, Familie, Flüchtlinge und Integration des Landes NRW'
+image_path: /uploads/img-2289-4.jpg
+thumbnail_path: /uploads/img-2289-5.jpg
 youtube_id:
 tags:
   - Print
@@ -17,7 +19,7 @@ _comments:
   thumbnail_path: 'Kleineres Bild für Projekte-Übersicht (Grösse: 350x250px)'
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Sport und Fu&szlig;ball spielen in der Integration schon lange eine gro&szlig;e Rolle. F&uuml;r den fu&szlig;ballbegeisterten Minister Joachim Stamp die passende Gelegenheit, gemeinsam mit jungen Fu&szlig;ballspielerinnen gegen den ehemaligen Nationalspieler Thomas Allofs zu einem Freundschaftsspiel anzutreten. Begleitet wurde die Aktion von Tuğba Tekkal, Ex-Fu&szlig;ballprofi, Trainerin und Initiatorin der Scoring Girls. Diese Initiative bietet M&auml;dchen mit und ohne Migrationshintergrund die M&ouml;glichkeit, ihre Leidenschaft auf dem Feld auszuleben.&nbsp;
 
 ![](/uploads/img-2291-1.jpg)
 
