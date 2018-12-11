@@ -1,25 +1,35 @@
 ---
 layout: project
-title: Koch
-subtitle:
-client:
-image_path: 'http://via.placeholder.com/1024x576'
-thumbnail_path: 'http://via.placeholder.com/350x250'
-youtube_id:
+title: Kochtalent gesucht!
+subtitle: >-
+  Sterne- und TV-Koch Ali Güngörmüş und Staatssekretärin Serap Güler laden zum
+  Kochduelll
+client: 'Ministerium für Kinder, Familie, Flüchtlinge und Integration des Landes NRW'
+image_path: /uploads/bild-73.jpg
+thumbnail_path: /uploads/bild-72.jpg
+youtube_id: XyKOByIND5A
 tags:
-  - Print
   - Kampagne
   - Full Service
+  - Konzeption
+  - Filme
+  - Fotoshooting
+  - Drehbuch
+  - Pre- und Postproduktion
+  - Event
+  - Projektleitung
+  - Koordination
 _comments:
-  layout: Bitte nicht verändern
+  layout: agentur_sub
   title: Überschrift
   image_path: Hauptbild des Projektes (Grösse 1024x576px)
   thumbnail_path: 'Kleineres Bild für Projekte-Übersicht (Grösse: 350x250px)'
 ---
 
+F&uuml;r eine (Koch-)Ausbildung begeistern: Das war die Mission von Staatssekret&auml;rin Serap G&uuml;ler und Sternekoch Ali G&uuml;ng&ouml;rm&uuml;s. Die knapp 20 Teilnehmer haben in drei Teams gegen- und miteinander gekocht, Azubis neben Hobbyk&ouml;chen und kompletten K&uuml;chen-Neulingen, um im Anschluss die Jury von ihren kulinarischen Talenten zu &uuml;berzeugen.&nbsp;
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+![](/uploads/bild-57.jpg)
 
-![](http://via.placeholder.com/1024x724)
+![](/uploads/bild-113-2.jpg)
 
-![](http://via.placeholder.com/1024x724)
+![](/uploads/bild-141-2.jpg)![](/uploads/bild-165.jpg)
