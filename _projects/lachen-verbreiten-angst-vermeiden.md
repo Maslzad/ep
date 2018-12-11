@@ -7,11 +7,18 @@ subtitle: >-
 client: 'Ministerium für Kinder, Familie, Flüchtlinge und Integration des Landes NRW'
 image_path: /uploads/img-2289-4.jpg
 thumbnail_path: /uploads/img-2289-5.jpg
-youtube_id:
+youtube_id: 'https://www.youtube.com/watch?v=RICmlCRXfww'
 tags:
-  - Print
   - Kampagne
   - Full Service
+  - Konzeption
+  - Event
+  - Projektleitung
+  - Koordination
+  - Durchführung
+  - Redaktion
+  - Interview
+  - Pre- und Postproduktion
 _comments:
   layout: agentur_sub
   title: Überschrift
@@ -19,7 +26,7 @@ _comments:
   thumbnail_path: 'Kleineres Bild für Projekte-Übersicht (Grösse: 350x250px)'
 ---
 
-Sport und Fu&szlig;ball spielen in der Integration schon lange eine gro&szlig;e Rolle. F&uuml;r den fu&szlig;ballbegeisterten Minister Joachim Stamp die passende Gelegenheit, gemeinsam mit jungen Fu&szlig;ballspielerinnen gegen den ehemaligen Nationalspieler Thomas Allofs zu einem Freundschaftsspiel anzutreten. Begleitet wurde die Aktion von Tuğba Tekkal, Ex-Fu&szlig;ballprofi, Trainerin und Initiatorin der Scoring Girls. Diese Initiative bietet M&auml;dchen mit und ohne Migrationshintergrund die M&ouml;glichkeit, ihre Leidenschaft auf dem Feld auszuleben.&nbsp;
+Sport und Fußball spielen in der Integration schon lange eine große Rolle. Für den fußballbegeisterten Minister Joachim Stamp die passende Gelegenheit, gemeinsam mit jungen Fußballspielerinnen gegen den ehemaligen Nationalspieler Thomas Allofs zu einem Freundschaftsspiel anzutreten. Begleitet wurde die Aktion von Tuğba Tekkal, Ex-Fußballprofi, Trainerin und Initiatorin der Scoring Girls. Diese Initiative bietet Mädchen mit und ohne Migrationshintergrund die Möglichkeit, ihre Leidenschaft auf dem Feld auszuleben. 
 
 ![](/uploads/img-2291-1.jpg)
 
