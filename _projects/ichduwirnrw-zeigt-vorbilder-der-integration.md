@@ -7,7 +7,7 @@ client: >-
   Nordrhein-Westfalen
 image_path: /uploads/k-butzweilerstr-0015.jpg
 thumbnail_path: /uploads/k-butzweilerstr-0015-1.jpg
-youtube_id: 'https://www.youtube.com/watch?v=JqxF7Fa3xY4'
+youtube_id:
 tags:
   - Print
   - Kampagne
